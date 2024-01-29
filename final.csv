@@ -1,0 +1,901 @@
+"","Label","Brand","Name","Price","Rank","Combination","Dry","Normal","Oily","Sensitive"
+"1","Cleanser","PHILOSOPHY","Purity Made Simple Cleanser",24,4.5,1,1,1,1,1
+"2","Cleanser","LANCÔME","Tonique Confort Re-Hydrating Comforting Toner with Acacia Honey",26,4.6,0,0,0,0,0
+"3","Cleanser","CLINIQUE","Take The Day Off Cleansing Balm",29,4.6,1,1,1,1,1
+"4","Cleanser","LANCÔME","Bi-Facil Double-Action Eye Makeup Remover",30,4.7,0,0,0,0,0
+"5","Cleanser","SEPHORA COLLECTION","Cleansing & Exfoliating Wipes",7,4.5,0,0,0,0,0
+"6","Cleanser","FIRST AID BEAUTY","Face Cleanser",20,4.4,1,1,1,1,1
+"7","Cleanser","ORIGINS","Checks and Balances™ Frothy Face Wash",23,4.3,1,1,1,1,1
+"8","Cleanser","SHISEIDO","Facial Cotton",10,4.9,0,0,0,0,0
+"9","Cleanser","KATE SOMERVILLE","ExfoliKate® Intensive Exfoliating Treatment",24,4.4,1,1,1,1,0
+"10","Cleanser","BOSCIA","MakeUp-BreakUp Cool Cleansing Oil",32,4.5,1,1,1,1,1
+"11","Cleanser","BOSCIA","Purifying Cleansing Gel",28,4.5,1,0,1,1,1
+"12","Cleanser","OLEHENRIKSEN","Balancing Force™ Oil Control Toner",26,4.4,1,1,1,1,1
+"13","Cleanser","CLINIQUE","Take The Day Off Makeup Remover For Lids, Lashes & Lips",19,4.6,0,0,0,0,0
+"14","Cleanser","OLEHENRIKSEN","The Clean Truth™ Foaming Cleanser",30,4.4,1,1,1,1,1
+"15","Cleanser","BOSCIA","Detoxifying Black Charcoal Cleanser",30,4.3,1,0,1,1,1
+"16","Cleanser","OLEHENRIKSEN","Transforming Walnut Scrub",28,4.7,1,1,1,1,1
+"17","Cleanser","SEPHORA COLLECTION","Waterproof Eye Makeup Remover",11,4.4,0,0,0,0,0
+"18","Cleanser","KIEHL'S SINCE 1851","Calendula Deep Clean Foaming Face Wash",29,4.7,1,1,1,1,1
+"19","Cleanser","CLINIQUE","Liquid Facial Soap",18,4.4,1,1,1,1,1
+"20","Cleanser","CAUDALIE","Instant Foaming Cleanser",28,4.3,1,1,1,1,1
+"21","Cleanser","KORRES","Greek Yoghurt Foaming Cream Cleanser",26,4.6,1,1,1,1,1
+"22","Cleanser","CAUDALIE","Moisturizing Toner",28,4.4,1,1,1,1,1
+"23","Cleanser","KIEHL'S SINCE 1851","Ultra Facial Cleanser",20,4.6,1,1,1,1,1
+"24","Cleanser","CLINIQUE","Clarifying Lotion 2",16,4.4,0,0,0,0,0
+"25","Cleanser","KIEHL'S SINCE 1851","Ultra Facial Toner",16,4.5,1,1,1,1,1
+"26","Cleanser","DRUNK ELEPHANT","Baby Pekee Bar™ + Juju Bar Travel Duo",18,4.5,1,1,1,1,0
+"27","Cleanser","SEPHORA COLLECTION","Cleansing & Exfoliating Wipes - Coconut Water",7,4.7,0,0,0,0,0
+"28","Cleanser","CAUDALIE","Vinopure Natural Salicylic Acid Pore Minimizing Toner",28,3.8,1,0,1,1,1
+"29","Cleanser","MURAD","Clarifying Cleanser",30,4.3,1,1,1,1,1
+"30","Cleanser","MAKEUP ERASER","The Original MakeUp Eraser® Makeup Remover Cloth",20,4.3,0,0,0,0,0
+"31","Cleanser","BOSCIA","Clear Complexion Cleanser",28,4.4,1,1,1,1,1
+"32","Cleanser","MAKE UP FOR EVER","Sens’Eyes - Waterproof Sensitive Eye Cleanser",25,4.4,0,0,0,0,0
+"33","Cleanser","PHILOSOPHY","The Microdelivery Exfoliating Facial Wash",8,4.6,1,1,1,1,1
+"34","Cleanser","FARMACY","Clean Bee Ultra Gentle Facial Cleanser",28,4.3,1,1,1,1,1
+"35","Cleanser","CLINIQUE","Acne Solutions Cleansing Foam",21,4.2,1,1,1,1,0
+"36","Cleanser","DRUNK ELEPHANT","Pekee Bar™",28,4.5,1,1,1,1,1
+"37","Cleanser","LANEIGE","Multi Cleanser",23,4.5,1,1,1,1,1
+"38","Cleanser","CLARINS","Gentle Foaming Cleanser with Cottonseed",26,4.5,1,0,1,0,0
+"39","Cleanser","SHISEIDO","Ibuki Gentle Cleanser",30,4.4,0,0,0,0,0
+"40","Cleanser","CLINIQUE","Exfoliating Scrub",22,4.7,1,0,0,1,0
+"41","Cleanser","CAUDALIE","Micellar Cleansing Water",14,4,1,1,1,1,1
+"42","Cleanser","DRUNK ELEPHANT","JuJu Bar",28,4.6,1,1,1,1,0
+"43","Cleanser","ORIGINS","GinZing™ Refreshing Scrub Cleanser",20,4.5,1,1,1,1,1
+"44","Cleanser","OLEHENRIKSEN","Pore-Balance™ Facial Sauna Scrub",28,4.6,1,0,0,1,0
+"45","Cleanser","CLINIQUE","Blackhead Solutions Self-heating Blackhead Extractor",29,3.7,1,1,1,1,1
+"46","Cleanser","CLARINS","Toning Lotion with Camomile",26,4.5,1,1,1,0,1
+"47","Cleanser","LAURA MERCIER","Flawless Skin Face Polish",32,4.7,0,0,0,0,0
+"48","Cleanser","NEOGEN DERMALOGY","Green Tea Real Fresh Foam Cleanser",19,4.4,1,1,1,1,1
+"49","Cleanser","INDIE LEE","CoQ-10 Toner",32,4.4,1,1,1,1,1
+"50","Cleanser","JACK BLACK","Pure Clean Daily Facial Cleanser",19,4.6,0,0,0,0,0
+"51","Cleanser","CLINIQUE","Acne Solutions Clarifying Lotion",17,4.4,1,1,1,1,0
+"52","Cleanser","KIEHL'S SINCE 1851","Rare Earth Deep Pore Daily Cleanser",23,4.6,1,0,1,1,1
+"53","Cleanser","FRESH","Rose Deep Hydration Toner Mini",25,0,0,0,0,0,0
+"54","Cleanser","CLINIQUE","Clarifying Lotion 3",16,4.4,0,0,0,0,0
+"55","Cleanser","IT COSMETICS","Confidence in a Cleanser™ Skin-Transforming Hydrating Cleansing Serum",28,4.7,1,1,1,1,1
+"56","Cleanser","CLINIQUE","Rinse-Off Foaming Cleanser",21,4.6,0,0,0,0,0
+"57","Cleanser","BELIF","Witch Hazel Herbal Extract Toner",28,4.6,0,0,0,0,0
+"58","Cleanser","KIEHL'S SINCE 1851","Midnight Recovery Botanical Cleansing Oil",32,4.4,1,1,1,1,1
+"59","Cleanser","LANEIGE","Essential Power Skin Toner for Normal to Dry Skin",28,4.5,1,1,1,0,1
+"60","Cleanser","LANCÔME","Crème Radiance Gentle Cleansing Creamy-Foam Cleanser",26,4.5,0,0,0,0,0
+"61","Cleanser","OLEHENRIKSEN","Truth™ On the Glow Cleansing Cloths",15,4.2,1,1,1,1,1
+"62","Cleanser","JACK BLACK","Face Buff Energizing Scrub",18,4.8,0,0,0,0,0
+"63","Cleanser","INDIE LEE","Brightening Cleanser",32,4.4,1,1,1,1,1
+"64","Cleanser","LA MER","The Cleansing Foam Mini",25,5,0,0,0,0,0
+"65","Cleanser","SEPHORA COLLECTION","Cleansing Wipes - Watermelon - Hydrating",7,4.7,0,0,0,0,0
+"66","Cleanser","REN CLEAN SKINCARE","Evercalm™ Gentle Cleansing Milk",30,4.3,1,1,1,1,1
+"67","Cleanser","GLAMGLOW","SUPERCLEANSE™ Clearing Cream-to-Foam Cleanser",32,3.9,1,0,1,1,0
+"68","Cleanser","OLEHENRIKSEN","Face the Truth™ Gel Cleanser",24,4.5,1,1,1,1,1
+"69","Cleanser","SEPHORA COLLECTION","Cleansing Wipes - Rose - Moisturizing",7,4.6,0,0,0,0,0
+"70","Cleanser","OLEHENRIKSEN","Find Your Balance™ Oil Control Cleanser",25,4.5,1,0,0,1,0
+"71","Cleanser","CLINIQUE","Pep-Start 2-in-1 Exfoliating Cleanser",19,4.5,1,1,1,1,0
+"72","Cleanser","KORRES","Wild Rose Foaming Cream Cleanser",28,4.8,1,1,1,1,1
+"73","Cleanser","SEPHORA COLLECTION","Cleansing & Exfoliating Wipes - Green Tea",7,4.6,0,0,0,0,0
+"74","Cleanser","LANCÔME","MOUSSE RADIANCE Clarifying Self-Foaming Cleanser",32,4.5,0,0,0,0,0
+"75","Cleanser","SEPHORA COLLECTION","Radiance Cleansing Foam",16,4.5,0,0,0,0,0
+"76","Cleanser","JACK BLACK","Deep Dive™ Glycolic Facial Cleanser",22,4.6,0,0,0,0,0
+"77","Cleanser","SEPHORA COLLECTION","Exfoliating Wipes - Charcoal - Detoxifying",7,4.2,0,0,0,0,0
+"78","Cleanser","TARTE","Deep Dive Cleansing Gel Rainforest of the Sea™",25,4.4,0,0,0,0,0
+"79","Cleanser","CLINIQUE","7 Day Scrub Cream Rinse-Off Formula",22,4.6,0,0,0,0,0
+"80","Cleanser","CLINIQUE","Take The Day Off Micellar Cleansing Towelettes for Face & Eyes",14,3.6,0,0,0,0,0
+"81","Cleanser","DR. JART+","Dermaclear™ Micro Water",32,4.4,1,1,1,1,1
+"82","Cleanser","FIRST AID BEAUTY","Skin Rescue Deep Cleanser With Red Clay",24,4.3,1,1,1,1,1
+"83","Cleanser","BOSCIA","The Future is Female Peppermint Blotting Linens",7,3.3,1,1,1,1,1
+"84","Cleanser","CAUDALIE","Gentle Cleansing Milk",28,4.1,1,1,1,1,1
+"85","Cleanser","CAUDALIE","Make-Up Removing Cleansing Oil",28,4.4,1,1,1,1,1
+"86","Cleanser","CLINIQUE","Rinse-Off Eye Makeup Solvent",19,4.3,0,0,0,0,0
+"87","Cleanser","DR. JART+","Dermaclear™ Micro Foam Cleanser",22,4.5,0,0,0,0,0
+"88","Cleanser","LANEIGE","Moisturizing Foam Cleanser",23,3.8,1,1,1,0,1
+"89","Cleanser","SHISEIDO","Pureness Deep Cleansing Foam",22,4.2,1,1,1,1,1
+"90","Cleanser","LANEIGE","Essential Power Skin Toner for Combination to Oily Skin",28,4.4,1,0,0,1,0
+"91","Cleanser","L'OCCITANE","Shea Cleansing Oil",24,4.5,0,0,0,0,0
+"92","Cleanser","TATCHA","Aburatorigami Japanese Blotting Papers",12,4.7,1,1,1,1,1
+"93","Cleanser","ORIGINS","Zero Oil™ Deep Pore Cleanser",23,4.2,0,0,0,0,0
+"94","Cleanser","LANCÔME","Tonique Douceur Softening Hydrating Toner with Rose Water",26,4.4,0,0,0,0,0
+"95","Cleanser","HERBIVORE","Bamboo Charcoal Detoxifying Soap Bar",12,4.5,1,0,1,1,0
+"96","Cleanser","MURAD","Clarifying Toner",24,0,0,0,0,0,0
+"97","Cleanser","ORIGINS","A Perfect World™ Age-Defense Treatment Lotion with White Tea",25,4.5,0,0,0,0,0
+"98","Cleanser","KOPARI","Coconut Rose Toner",24,4.5,1,1,1,1,1
+"99","Cleanser","SEPHORA COLLECTION","Micellar Cleansing Water & Milk",7,4.1,1,1,1,1,1
+"100","Cleanser","SEPHORA COLLECTION","Micellar Cleansing Water & Milk - Pomegranate",7,4.2,1,1,1,1,1
+"101","Cleanser","ORIGINS","Zero Oil™ Pore Purifying Toner",23,4.3,0,0,0,0,0
+"102","Cleanser","PHILOSOPHY","Purity Made Simple One-Step Facial Cleansing Cloths",15,3.9,0,0,0,0,0
+"103","Cleanser","SATURDAY SKIN","Rub-A-Dub Refining Peel Gel",28,4.6,1,1,1,1,1
+"104","Cleanser","TOO FACED","Mascara Melt Off Cleansing Oil",17,4.2,0,0,0,0,0
+"105","Cleanser","SEPHORA COLLECTION","Cleansing Wipes - Cucumber - Anti-fatigue",7,4.4,0,0,0,0,0
+"106","Cleanser","SHISEIDO","Ibuki Softening Concentrate",24,4.4,0,0,0,0,0
+"107","Cleanser","ORIGINS","United State™ Balancing Tonic",23,4.3,0,0,0,0,0
+"108","Cleanser","BOSCIA","Black Charcoal Blotting Linens",10,4.3,0,0,0,0,0
+"109","Cleanser","BELIF","Creamy Cleansing Foam Moist",26,4.1,0,0,0,0,0
+"110","Cleanser","FARMACY","New Day Gentle Exfoliating Grains",30,4.5,1,1,1,1,1
+"111","Cleanser","KIEHL'S SINCE 1851","Cucumber Herbal Alcohol-Free Toner",16,4.1,0,1,0,0,1
+"112","Cleanser","SHISEIDO","Oil Control Blotting Paper",18,4.3,1,1,1,1,1
+"113","Cleanser","SATURDAY SKIN","Rise + Shine Gentle Cleanser",26,4.5,1,1,1,1,1
+"114","Cleanser","BELIF","Problem Solution Toner",28,4.3,0,0,0,1,1
+"115","Cleanser","MILK MAKEUP","Matcha Toner",26,3.7,1,1,1,1,1
+"116","Cleanser","CLINIQUE","Blackhead Solutions 7 Day Deep Pore Cleanse & Scrub",24,4.2,1,1,1,1,1
+"117","Cleanser","FRESH","Rose Cleansing Foam",29,3.6,1,1,1,1,1
+"118","Cleanser","BAREMINERALS","OIL OBSESSED™ Total Cleansing Oil",30,4.6,1,1,1,1,0
+"119","Cleanser","BELIF","Bergamot Herbal Extract Toner",28,4.3,0,0,0,0,0
+"120","Cleanser","MURAD","Essential-C Toner",30,4.4,0,0,0,0,0
+"121","Cleanser","GLAMGLOW","YOUTHCLEANSE™ Daily Exfoliating Cleanser",32,4.2,1,0,1,1,0
+"122","Cleanser","CLARINS","Instant Eye Makeup Remover",30,4.5,1,1,1,1,1
+"123","Cleanser","SEPHORA COLLECTION","Exfoilating Wipes - Papaya - Glow",7,4.9,0,0,0,0,0
+"124","Cleanser","FRESH","Rose Floral Toner Mini",15,2.8,0,0,0,0,0
+"125","Cleanser","OLEHENRIKSEN","Stay Balanced™ Oil Control Cleansing Cloths",8,4.5,1,0,0,1,0
+"126","Cleanser","KORRES","Wild Rose Exfoliating Cleanser",28,4.4,1,1,1,1,1
+"127","Cleanser","SEPHORA COLLECTION","Soft Touch Cotton Pads",4,4.6,0,0,0,0,0
+"128","Cleanser","SEPHORA COLLECTION","Blotting Papers",8,4.3,0,0,0,0,0
+"129","Cleanser","MURAD","Hydrating Toner",30,4.4,0,0,0,0,0
+"130","Cleanser","GLAMGLOW","BUBBLESHEET™ Oxygenating Deep Cleanse Mask",9,4.3,1,1,1,1,0
+"131","Cleanser","CLINIQUE","Clarifying Lotion 1",16,4.5,0,0,0,0,0
+"132","Cleanser","SHISEIDO","Ibuki Purifying Cleanser",30,4.3,1,1,1,1,1
+"133","Cleanser","SHISEIDO","Pureness Balancing Softener Alcohol-Free",24,4.4,0,0,0,0,0
+"134","Cleanser","BOSCIA","Balancing Facial Tonic",26,4.3,0,0,0,0,0
+"135","Cleanser","BOSCIA","Clear Complexion Tonic",26,4.3,1,1,1,1,1
+"136","Cleanser","LANCÔME","Tonique Radiance Clarifying Refining Toner",26,4.1,0,0,0,0,0
+"137","Cleanser","KIEHL'S SINCE 1851","Clearly Corrective™ Brightening & Exfoliating Daily Cleanser",29,4.3,1,1,1,1,1
+"138","Cleanser","SEPHORA COLLECTION","Mattifying Blotting Films",8,4.5,0,0,0,0,0
+"139","Cleanser","CLINIQUE","Take The Day Off Makeup Remover For Lids, Lashes & Lips Mini",9,3.4,0,0,0,0,0
+"140","Cleanser","EVE LOM","3 Muslin Cloths",22,4.3,0,0,0,0,0
+"141","Cleanser","NUFACE","Prep-N-Glow™ Cloths",20,4.7,1,1,1,1,1
+"142","Cleanser","TARTE","FRXXXTION Stick Exfoliating Cleanser",22,4.6,1,1,1,1,1
+"143","Cleanser","CLINIQUE","Foaming Sonic Facial Soap",21,4.1,0,0,0,0,0
+"144","Cleanser","KATE SOMERVILLE","Clarifying Treatment Toner",26,4.2,0,0,0,0,0
+"145","Cleanser","KLORANE","Waterproof Eye Make-Up Remover with Soothing Cornflower",16,4.5,0,0,0,0,0
+"146","Cleanser","BOBBI BROWN","Instant Long-Wear Makeup Remover",30,4.5,0,0,0,0,0
+"147","Cleanser","FIRST AID BEAUTY","Skin Rescue Acne Clearing Charcoal Cleanser with Probiotics",24,3.9,1,1,1,1,1
+"148","Cleanser","PHILOSOPHY","Purity Made Simple® Facial Cleansing Gel & Eye Makeup Remover",23,0,0,0,0,0,0
+"149","Cleanser","ERBORIAN","Double Mousse Gentle Cleansing Foam",28,4.5,0,0,0,0,0
+"150","Cleanser","CLINIQUE","Fresh Pressed 7-day System with Pure Vitamin C",27,4.1,1,1,1,1,1
+"151","Eye cream","DRUNK ELEPHANT","C-Tango™ Multivitamin Eye Cream",64,0,1,1,1,1,1
+"152","Eye cream","SHISEIDO","Benefiance WrinkleResist24 Intensive Eye Contour Cream",60,4.3,1,1,1,1,1
+"153","Eye cream","KIEHL'S SINCE 1851","Creamy Eye Treatment with Avocado",29,4.3,1,1,1,1,1
+"154","Eye cream","OLEHENRIKSEN","Banana Bright Eye Crème",38,4.2,1,1,1,1,1
+"155","Eye cream","ESTÉE LAUDER","Advanced Night Repair Eye Supercharged Complex",62,4.4,1,1,1,1,0
+"156","Eye cream","FRESH","Black Tea Firming and De-Puffing Eye Cream",68,4,1,1,1,1,1
+"157","Eye cream","BELIF","Moisturizing Eye Bomb",48,4.6,1,1,1,1,1
+"158","Eye cream","ORIGINS","GinZing™ Refreshing Eye Cream to Brighten and Depuff",32,4,1,1,1,1,1
+"159","Eye cream","TATCHA","The Pearl Tinted Eye Illuminating Treatment",48,4,1,1,1,1,1
+"160","Eye cream","SHISEIDO","Benefiance WrinkleResist24 Pure Retinol Express Smoothing Eye Mask",65,4.4,1,1,1,1,0
+"161","Eye cream","DRUNK ELEPHANT","Shaba Complex™ Eye Serum",60,3.9,1,1,1,1,1
+"162","Eye cream","CLINIQUE","All About Eyes™ Rich",32,4.2,1,1,1,1,1
+"163","Eye cream","SATURDAY SKIN","Wide Awake Brightening Eye Cream",46,4.5,1,1,1,1,1
+"164","Eye cream","IT COSMETICS","Bye Bye Under Eye Eye Cream™ Smooths, Brightens, Depuffs",48,3.7,1,1,1,1,1
+"165","Eye cream","DR. DENNIS GROSS SKINCARE","Ferulic + Retinol Triple Correction Eye Serum",69,3.8,1,1,1,1,1
+"166","Eye cream","BIOSSANCE","Squalane + Peptide Eye Gel",54,3.8,1,1,1,1,1
+"167","Eye cream","LANCÔME","Advanced Génifique Yeux Light-Pearl™ Eye Illuminator Youth Activating Concentrate",69,3.6,1,1,1,1,1
+"168","Eye cream","PETER THOMAS ROTH","Water Drench Hyaluronic Cloud Hydra-Gel Eye Patches",52,4.4,1,1,1,1,1
+"169","Eye cream","ALGENIST","Complete Eye Renewal Balm",68,4,1,1,1,1,1
+"170","Eye cream","KIEHL'S SINCE 1851","Midnight Recovery Eye",37,3.9,1,1,1,1,1
+"171","Eye cream","WANDER BEAUTY","Baggage Claim Gold Eye Masks",25,4.3,1,1,1,1,1
+"172","Eye cream","LANEIGE","Eye Sleeping Mask",34,4,1,1,1,1,1
+"173","Eye cream","FRESH","Rose Hydrating Eye Gel Cream",41,4.2,0,0,0,0,0
+"174","Eye cream","SEPHORA COLLECTION","Eye Mask",5,4.2,0,0,0,0,0
+"175","Eye cream","CLINIQUE","All About Eyes",32,4.1,1,1,1,1,1
+"176","Eye cream","LANCÔME","Advanced Génifique Eye Cream",67,4.1,1,1,1,1,1
+"177","Eye cream","ESTÉE LAUDER","Advanced Night Repair Eye Concentrate Matrix",69,3.2,1,1,1,1,0
+"178","Eye cream","SHISEIDO","Ultimune Eye Power Infusing Eye Concentrate",67,3.8,1,1,1,1,1
+"179","Eye cream","LANEIGE","Water Bank Eye Gel",36,4.2,1,1,1,1,1
+"180","Eye cream","FIRST AID BEAUTY","Eye Duty Triple Remedy A.M. Gel Cream",36,4.1,1,1,1,1,1
+"181","Eye cream","WANDER BEAUTY","Baggage Claim Rose Gold Eye Masks",25,4.6,1,1,1,1,0
+"182","Eye cream","CAUDALIE","Resveratrol Lift Hyaluronic Acid Eye Lifting Balm",62,4,1,1,1,1,1
+"183","Eye cream","PETER THOMAS ROTH","Cucumber De-Tox™ Hydra-Gel Eye Patches",48,4.1,1,1,1,1,1
+"184","Eye cream","CAUDALIE","Vine[activ] Energizing Vitamin C Eye Cream",39,3.7,1,1,1,1,1
+"185","Eye cream","PETER THOMAS ROTH","Mega Rich Intensive Anti-Aging Cellular Eye Creme",65,4.2,0,0,0,0,0
+"186","Eye cream","PETER THOMAS ROTH","Potent-C™ Power Eye Cream",65,4.4,1,1,1,1,1
+"187","Eye cream","CLINIQUE","Pep-Start Eye Cream",26,3.7,1,1,1,1,1
+"188","Eye cream","KORA ORGANICS","Noni Radiant Eye Oil",38,4.1,1,1,1,1,1
+"189","Eye cream","ESTÉE LAUDER","Advanced Night Repair Eye Serum Synchronized Complex II",66,3.5,1,1,1,1,1
+"190","Eye cream","PEACE OUT","Puffy Under-Eye Patches",25,4.6,1,1,1,1,1
+"191","Eye cream","TARTE","Maracuja C-Brighter™ Eye Treatment",38,4,1,1,1,1,1
+"192","Eye cream","DR. BRANDT SKINCARE","needles no more® NO MORE BAGGAGE™ eye de-puffing gel",42,3.8,1,1,1,1,1
+"193","Eye cream","ORIGINS","Eye Doctor™ Moisture Care For Skin Around Eyes",41,4.1,0,0,0,0,0
+"194","Eye cream","YOUTH TO THE PEOPLE","Superfood Peptide Eye Cream",35,4,1,1,1,1,1
+"195","Eye cream","BOBBI BROWN","Hydrating Eye Cream",54,4.1,0,0,0,0,0
+"196","Eye cream","SUNDAY RILEY","Auto Correct Brightening and Depuffing Eye Contour Cream",65,3.3,1,1,1,1,1
+"197","Eye cream","SHISEIDO","Bio-Performance LiftDynamic Eye Treatment",72,3.9,1,1,1,1,1
+"198","Eye cream","FIRST AID BEAUTY","Eye Duty Triple Remedy: Brighten, Depuff and Smooth",36,4,1,1,1,1,1
+"199","Eye cream","OLEHENRIKSEN","Uplifting Transformation™ Eye Crème",42,3.9,1,1,1,1,1
+"200","Eye cream","KIEHL'S SINCE 1851","Powerful Wrinkle Reducing Eye Cream",43,3.9,1,1,1,1,1
+"201","Eye cream","FARMACY","Dew It All Total Eye Cream with Echinacea GreenEnvy™",38,4.1,1,1,1,0,1
+"202","Eye cream","KORRES","Black Pine 3D Sculpting, Firming & Lifting Super Eye Serum",65,4.2,1,1,1,1,1
+"203","Eye cream","SHISEIDO","White Lucent Anti-Dark Circles Eye Cream",60,3.6,0,0,0,0,0
+"204","Eye cream","PERRICONE MD","Hypoallergenic Firming Eye Cream",72,4.4,1,1,1,1,1
+"205","Eye cream","EDIBLE BEAUTY","Gold Rush Eye Balm",61,4.5,1,1,1,1,1
+"206","Eye cream","SEPHORA COLLECTION","Eye Mask - Cucumber - Anti-Puffiness",5,3,0,0,0,0,0
+"207","Eye cream","CLINIQUE","Repairwear Laser Focus Wrinkle Correcting Eye Cream",45,3.9,0,0,0,0,0
+"208","Eye cream","FRESH","Lotus Eye Gel",48,3.8,1,1,1,0,0
+"209","Eye cream","DIOR","One Essential Eye Serum",72,4.5,1,0,1,0,0
+"210","Eye cream","CLARINS","Extra-Firming Eye Wrinkle Smoothing Cream",64,4,0,0,0,0,0
+"211","Eye cream","BELIF","Peat Miracle Revital Eye Cream",58,4.3,1,1,1,0,0
+"212","Eye cream","CLINIQUE","All About Eyes Serum De-Puffing Eye Massage",32,3.8,0,0,0,0,0
+"213","Eye cream","PHILOSOPHY","Anti-Wrinkle Miracle Worker Retinoid Eye Repair Cream",68,3.8,1,1,1,1,1
+"214","Eye cream","BEAUTYBIO","Illuminating Bright Eyes Gels + Silky Mask Beauty Sleep Set",25,4.3,0,0,0,0,0
+"215","Eye cream","FIRST AID BEAUTY","5 in 1 Eye Cream",32,3.9,1,1,1,1,1
+"216","Eye cream","FRESH","Lotus Youth Preserve Eye Cream",45,3.5,0,0,0,0,0
+"217","Eye cream","TARTE","Pack Your Bags Undereye Patches",22,4.2,1,1,1,1,1
+"218","Eye cream","ORIGINS","Plantscription™ Anti-Aging Eye Treatment",48,4.1,0,0,0,0,0
+"219","Eye cream","ORIGINS","Plantscription™ Anti-Aging Power Eye Cream",49,3.8,0,0,0,0,0
+"220","Eye cream","ERNO LASZLO","Hello Bright Eyes",48,5,1,1,1,1,0
+"221","Eye cream","CLINIQUE","Repairwear Anti-Gravity Eye Lift Cream",45,4.2,0,0,0,0,0
+"222","Eye cream","DR. DENNIS GROSS SKINCARE","Ferulic + Retinol Eye Cream",69,3.4,1,1,1,1,1
+"223","Eye cream","FIRST AID BEAUTY","Eye Duty Triple Remedy Overnight Balm",38,3.7,1,1,1,1,1
+"224","Eye cream","ERNO LASZLO","Multi-Task Eye Serum Mask",35,4.5,1,1,1,1,1
+"225","Eye cream","ESTÉE LAUDER","Advanced Time Zone Age Reversing Line/Wrinkle Eye Creme",64,3.5,0,0,0,0,0
+"226","Eye cream","SHISEIDO","Sun Protection Eye Cream Broad Spectrum SPF 34 Sunscreen",34,4.4,0,0,0,0,0
+"227","Eye cream","DR. DENNIS GROSS SKINCARE","Hyaluronic Marine Dew It Right Eye Gel",48,3.9,1,1,1,1,1
+"228","Eye cream","SHISEIDO","Ibuki Eye Correcting Cream",40,3.8,0,0,0,0,0
+"229","Eye cream","KIEHL'S SINCE 1851","Youth Dose Eye Treatment",39,2.8,1,1,1,1,1
+"230","Eye cream","DR ROEBUCK’S","Down Under Collagen Boosting Eye Treatment",38,4,1,1,1,1,1
+"231","Eye cream","SHISEIDO","Bio Performance Glow Revival Eye Treatment",68,4,0,0,0,0,0
+"232","Eye cream","PETER THOMAS ROTH","Instant FIRMx Eye™",38,3.6,0,0,0,0,0
+"233","Eye cream","LANCÔME","Visionnaire Eye Cream Advanced Multi-Correcting Eye Balm",65,3.9,1,1,1,1,1
+"234","Eye cream","DR. DENNIS GROSS SKINCARE","C+ Collagen Brighten & Firm Eye Cream",65,3.5,1,1,1,1,1
+"235","Eye cream","DR. BRANDT SKINCARE","24/7 Retinol Eye Cream",55,3.5,1,1,1,1,0
+"236","Eye cream","MURAD","Essential-C Eye Cream SPF 15 PA++",69,4,0,0,0,0,0
+"237","Eye cream","L'OCCITANE","Immortelle Eye Balm",44,4.1,0,0,0,0,0
+"238","Eye cream","PHILOSOPHY","Ultimate Miracle Worker Eye Cream",70,4,0,0,0,0,0
+"239","Eye cream","PERRICONE MD","High Potency Classics: Firming Eye Lift",72,4.3,1,1,1,1,1
+"240","Eye cream","KIEHL'S SINCE 1851","Super Multi-Corrective Eye-Opening Serum",48,3.8,0,0,0,0,0
+"241","Eye cream","CLINIQUE","Clinique Smart Custom-Repair Eye Treatment",50,3.7,0,0,0,0,0
+"242","Eye cream","KATE SOMERVILLE","Goat Milk De-Puffing Eye Balm",38,3.9,1,1,1,1,1
+"243","Eye cream","CLINIQUE","Even Better Eyes Dark Circle Corrector",42,3.3,0,0,0,0,0
+"244","Eye cream","CHARLOTTE TILBURY","Magic Eye Rescue Cream",60,3.9,1,1,1,1,1
+"245","Eye cream","BOSCIA","Enlivening Amino-AG Eye Treatment",38,4.2,0,0,0,0,0
+"246","Eye cream","PHILOSOPHY","Hope In A Tube Eye & Lip Cream",38,4.2,0,0,0,0,0
+"247","Eye cream","REN CLEAN SKINCARE","Keep Young and Beautiful Anti-Ageing Eye Cream",42,3.6,0,0,0,0,0
+"248","Eye cream","ANTHONY","High Performance Continuous Moisture Eye Cream",38,4.3,0,0,0,0,0
+"249","Eye cream","HUM NUTRITION","Wing Man™ Dark Circle Remedy Supplement",25,3.8,0,0,0,0,0
+"250","Eye cream","KORRES","Black Pine 3D Sculpting, Firming & Lifting Eye Cream",56,4,1,1,1,1,1
+"251","Eye cream","BOSCIA","Super-Cool De-Puffing Eye Balm",26,3.6,0,0,0,0,0
+"252","Eye cream","BEAUTYBIO","GloPRO® EYE MicroTip™ Attachment Head",35,0,0,0,0,0,0
+"253","Eye cream","KIEHL'S SINCE 1851","Eye Fuel",22,4,1,1,1,1,1
+"254","Eye cream","PERRICONE MD","No Makeup Concealer Broad Spectrum SPF 35",35,3.8,1,1,1,1,1
+"255","Eye cream","MURAD","Hydro-Dynamic® Ultimate Moisture For Eyes",68,4.2,1,1,1,1,1
+"256","Eye cream","INDIE LEE","I-Waken Eye Serum",48,3.8,1,1,1,1,1
+"257","Eye cream","FIRST AID BEAUTY","Detox Eye Roller",26,3.4,1,1,1,1,1
+"258","Eye cream","KATE SOMERVILLE","Wrinkle Warrior® Eye Gel Visible Dark Circle Eraser",60,3,1,1,1,1,0
+"259","Eye cream","CLARINS","Eye Contour Gel",41,3.8,0,0,0,0,0
+"260","Eye cream","ORIGINS","No Puffery™ Cooling Roll-On For Puffy Eyes",29,3.4,0,0,0,0,0
+"261","Eye cream","VOLITION BEAUTY","Helix AM/PM Eye Gel",52,3.9,1,1,1,1,0
+"262","Eye cream","PETER THOMAS ROTH","Retinol Fusion PM Eye Cream",55,3.7,1,1,1,1,1
+"263","Eye cream","ESTÉE LAUDER","Resilience Lift Firming/Sculpting Eye Creme",65,3.3,0,0,0,0,0
+"264","Eye cream","PHILOSOPHY","Ultimate Miracle Worker Fix Eye Power-Treatment",68,3.9,1,1,1,1,1
+"265","Eye cream","DERMADOCTOR","Wrinkle Revenge Eye Balm",50,4.1,0,0,0,0,0
+"266","Eye cream","REN CLEAN SKINCARE","Keep Young And Beautiful™ Instant Brightening Beauty Shot Eye Lift",45,3.7,1,1,1,1,1
+"267","Eye cream","PHILOSOPHY","Purity Made Simple Hydra-Bounce Eye Gel",24,3.3,1,1,1,1,1
+"268","Eye cream","BAREMINERALS","SKINLONGEVITY™ Vital Power Eye Gel Cream",32,4.2,1,1,1,1,1
+"269","Eye cream","DIOR","Hydra Life Cooling Hydration Sorbet Eye Gel",55,3.8,0,1,1,0,1
+"270","Eye cream","LANCÔME","Énergie de Vie The Illuminating & Anti-Fatigue Cooling Eye Gel",39,3.5,1,1,1,1,1
+"271","Eye cream","TATCHA","Luminous Deep Hydration Revitalizing Eye Mask",12,3.7,0,0,0,0,0
+"272","Eye cream","ORIGINS","A Perfect World™ SPF 20 Age-Defense Eye Cream with White Tea",41,4,1,1,1,1,1
+"273","Eye cream","CLARINS","Enhancing Eye Lift Serum",65,3.4,1,1,1,1,1
+"274","Eye cream","SHISEIDO","Essential Energy Eye Definer",42,0,1,1,1,1,1
+"275","Eye cream","BEAUTYBIO","Bright Eyes Collagen-Infused Brightening Colloidal Silver Eye Masks",40,5,1,1,1,1,1
+"276","Eye cream","PHILOSOPHY","Renewed Hope In A Jar Eye",51,3.7,0,0,0,0,0
+"277","Eye cream","CLARINS","Multi-Active Eye",45,3.4,1,1,1,1,1
+"278","Eye cream","SUPERGOOP!","Advanced Anti-Aging Eye Cream Broad Spectrum Sunscreen SPF 37",32,3.8,1,1,1,1,1
+"279","Eye cream","FIRST AID BEAUTY","Hello FAB Kona Eye Stick",24,3.7,1,1,1,1,1
+"280","Eye cream","KIEHL'S SINCE 1851","Powerful-Strength Line-Reducing Eye-Brightening Concentrate",44,3.1,1,1,1,1,0
+"281","Eye cream","DR. JART+","Water Fuse Hydro Soothe Eye Gel",42,3.7,1,1,1,1,1
+"282","Eye cream","KIEHL'S SINCE 1851","Clearly Corrective™ Dark Circle Perfector",38,3.6,1,1,1,1,1
+"283","Eye cream","ORIGINS","Dr. Weil For Origins™ Mega-Mushroom Skin Relief Eye Serum",50,4,0,0,0,0,0
+"284","Eye cream","PERRICONE MD","PRE:EMPT SERIES™ Brightening Eye Cream",55,3.6,1,1,1,1,1
+"285","Eye cream","SKIN INC SUPPLEMENT BAR","Vitamin A Serum EVEN TONE & REDUCE DARK CIRCLES",35,3.5,1,1,1,0,1
+"286","Eye cream","BAREMINERALS","BRILLIANT FUTURE™ Age Defense & Renew Eye Cream",38,3.5,1,1,1,1,0
+"287","Eye cream","PHILOSOPHY","Time In A Bottle For Eyes 100% In-Control",65,3.9,1,1,1,1,1
+"288","Eye cream","KLORANE","Smoothing and Relaxing Patches with Soothing Cornflower",24,4,0,0,0,0,0
+"289","Eye cream","ORIGINS","Dr. Andrew Weil for Origins™ Mega-Bright Dark Circle Minimizer",46,3.2,0,0,0,0,0
+"290","Eye cream","ALGENIST","ELEVATE Firming & Lifting Contouring Eye Cream",72,3,1,1,1,1,1
+"291","Eye cream","NARS","Total Replenishing Eye Cream",58,3.3,0,0,0,0,0
+"292","Eye cream","NATURALLY SERIOUS","Zero Baggage Anti-Dark Circle Eye Cream",44,3.3,1,1,1,1,1
+"293","Eye cream","DERMADOCTOR","Kakadu C™ Eye Soufflé",68,3.8,0,0,0,0,0
+"294","Eye cream","BOSCIA","Sake Brightening Bio-Cellulose Eye Masks",15,1.8,1,1,1,1,1
+"295","Eye cream","PHILOSOPHY","Take a Deep Breath Oxygenating Eye Gel Cream",42,4.1,0,0,0,0,0
+"296","Eye cream","SKIN LAUNDRY","Wrinkle Release Eye Cream with Peptides",30,3.8,1,1,1,1,1
+"297","Eye cream","DERMADOCTOR","Photo Dynamic Therapy Energizing Eye Renewal Cream",65,3.9,0,0,0,0,0
+"298","Eye cream","CLARINS","Mission Perfection Eye Broad Spectrum SPF 15",50,4,1,1,1,1,1
+"299","Eye cream","KENZOKI","Belle de Jour Angel Eyes White Lotus Care",71,3.5,0,0,0,0,0
+"300","Eye cream","DR. BRANDT SKINCARE","Xtend Your Youth Eye Cream",46,3,0,0,0,0,0
+"301","Face Mask","DR. JART+","Mask Heroes Face Savers",36,4.9,1,1,1,1,1
+"302","Face Mask","SEPHORA COLLECTION","Face Mask Magic",25,5,1,1,1,1,1
+"303","Face Mask","LANEIGE","Lip Sleeping Mask",20,4.6,0,0,0,0,0
+"304","Face Mask","KIEHL'S SINCE 1851","Rare Earth Deep Pore Cleansing Masque",33,4.7,0,0,0,0,0
+"305","Face Mask","SEPHORA COLLECTION","Face Mask",6,4.3,1,1,1,1,1
+"306","Face Mask","ORIGINS","Mini Mask Musts",28,4.1,1,1,1,1,0
+"307","Face Mask","DR. JART+","Sheet Masks",7,4.2,1,1,1,1,1
+"308","Face Mask","ORIGINS","Clear Improvement® Active Charcoal Mask to Clear Pores",28,4.3,1,1,1,1,1
+"309","Face Mask","ORIGINS","Drink Up™ Intensive Overnight Mask to Quench Skin's Thirst",28,4.6,0,0,0,0,0
+"310","Face Mask","BOSCIA","Luminizing Black Charcoal Mask",34,3.9,1,1,1,1,1
+"311","Face Mask","SEPHORA COLLECTION","Experiential Masks Set",18,5,1,1,1,1,0
+"312","Face Mask","GLOW RECIPE","Watermelon Glow Sleeping Mask Mini",22,3.7,1,1,1,1,1
+"313","Face Mask","DR. JART+","Lover Rubber Masks",12,4.1,1,1,1,1,1
+"314","Face Mask","FRESH","Black Tea Firming Overnight Mask Mini",35,4,1,1,1,0,0
+"315","Face Mask","ORIGINS","Original Skin™ Retexturizing Mask with Rose Clay",28,4.7,1,0,1,1,0
+"316","Face Mask","ORIGINS","Hello, Calm Relaxing & Hydrating Face Mask with Cannabis Sativa Seed Oil",28,4.8,1,1,1,1,0
+"317","Face Mask","FARMACY","Bright On Massage-Activated Vitamin C Mask with Echinacea GreenEnvy™",38,4.6,1,1,1,1,1
+"318","Face Mask","ORIGINS","Out of Trouble™ 10 Minute Mask to Rescue Problem Skin",28,4.4,0,0,0,0,0
+"319","Face Mask","KIEHL'S SINCE 1851","Turmeric & Cranberry Seed Energizing Radiance Mask",39,4.5,1,1,1,1,1
+"320","Face Mask","ORIGINS","Clear Improvement™ Charcoal Honey Mask to Purify and Nourish",34,4.7,1,1,1,1,0
+"321","Face Mask","SEPHORA COLLECTION","Hand Mask",5,4.1,0,0,0,0,0
+"322","Face Mask","SEPHORA COLLECTION","Hand Mask - Avocado",5,3.7,0,0,0,0,0
+"323","Face Mask","SEPHORA COLLECTION","Face Mask - Pearl - Brightening",6,4.4,0,0,0,0,0
+"324","Face Mask","FRESH","Black Tea Instant Perfecting Mask Mini",35,4.7,0,0,0,0,0
+"325","Face Mask","OLEHENRIKSEN","Cold Plunge Pore Mask",36,4.6,1,1,1,1,1
+"326","Face Mask","CAUDALIE","Instant Detox Mask",39,4.4,1,1,1,1,1
+"327","Face Mask","DR. JART+","Water Replenishment Cotton Sheet Mask",7,4.6,1,1,1,1,1
+"328","Face Mask","TATCHA","Luminous Dewy Skin Sheet Mask",12,4.3,1,1,1,0,1
+"329","Face Mask","DR. JART+","Dermask Water Jet Vital Hydra Solution™",6,4.6,1,1,1,1,1
+"330","Face Mask","SEPHORA COLLECTION","Face Mask - Avocado",6,4.6,0,0,0,0,0
+"331","Face Mask","LANCÔME","Advanced Génifique Hydrogel Melting Mask",15,4.5,1,1,1,1,1
+"332","Face Mask","PHILOSOPHY","Purity Made Simple Pore Extractor Mask",35,4.5,1,1,1,1,1
+"333","Face Mask","TOO COOL FOR SCHOOL","Egg Cream Mask Hydration",24,4.3,1,1,1,0,1
+"334","Face Mask","FARMACY","Coconut Gel Sheet Mask - Hydrating",6,4.5,1,1,1,1,1
+"335","Face Mask","SEPHORA COLLECTION","Clay Mask",8,4.3,1,1,1,1,1
+"336","Face Mask","SEPHORA COLLECTION","Face Mask - Green Tea - Mattifying",6,4.3,0,0,0,0,0
+"337","Face Mask","SEPHORA COLLECTION","Mud Mask Purifying & Mattifying",20,4.5,0,0,0,0,0
+"338","Face Mask","FIRST AID BEAUTY","Ultra Repair Instant Oatmeal Mask",24,4.4,1,1,1,1,1
+"339","Face Mask","REN CLEAN SKINCARE","Evercalm™ Ultra Comforting Rescue Mask",38,4.5,0,0,0,0,1
+"340","Face Mask","GLOW RECIPE","Watermelon Glow Jelly Sheet Mask",8,3.6,1,1,1,1,0
+"341","Face Mask","SEPHORA COLLECTION","Crazy for Clay!",18,4,1,1,1,1,1
+"342","Face Mask","DR. JART+","Shake & Shot™ Rubber Masks",12,4.1,1,1,1,1,1
+"343","Face Mask","SEPHORA COLLECTION","Face Mask - Rose - Moisturizing",6,4.5,0,0,0,0,0
+"344","Face Mask","LANEIGE","Time Freeze Sleeping Mask",39,4.3,1,1,1,1,1
+"345","Face Mask","SEPHORA COLLECTION","SUPERMASK - The Golden Mask",6,2.6,1,1,1,1,0
+"346","Face Mask","SATURDAY SKIN","Spotlight Brightening Mask",6,4.6,1,1,1,1,1
+"347","Face Mask","SEPHORA COLLECTION","SUPERMASK - The Bubble Mask",6,4.7,1,1,1,1,1
+"348","Face Mask","BOSCIA","Luminizing Pink Charcoal Mask",34,3.5,1,0,1,1,1
+"349","Face Mask","SEPHORA COLLECTION","Face Mask - Aloe Vera - Replenishing",6,4.7,1,1,1,1,1
+"350","Face Mask","DR. JART+","Hydration Lover Rubber Mask",12,4,1,1,1,0,1
+"351","Face Mask","DR. JART+","Bright Lover Rubber Mask",12,4.3,1,1,1,1,1
+"352","Face Mask","FIRST AID BEAUTY","5 in 1 Bouncy Mask",38,4.3,1,1,1,1,1
+"353","Face Mask","SEPHORA COLLECTION","Face Mask - Pineapple - Pore Perfecting",6,4.7,1,1,1,1,1
+"354","Face Mask","FARMACY","Coconut Gel Sheet Mask - Brightening",6,4.5,1,1,1,1,1
+"355","Face Mask","SEPHORA COLLECTION","Face Mask - Coconut - Nourishing",6,3.5,1,1,1,1,1
+"356","Face Mask","CLINIQUE","Pep-Start Pout Restoring Night Mask",17,4.6,0,0,0,0,0
+"357","Face Mask","BOSCIA","Charcoal Pore Pudding Intensive Wash-Off Treatment",38,4.4,1,1,1,1,1
+"358","Face Mask","SEPHORA COLLECTION","SUPERMASK - The Charcoal Mask",6,4.1,1,0,1,1,0
+"359","Face Mask","SEPHORA COLLECTION","Sleeping Mask - Rose",4,4.3,0,0,0,0,0
+"360","Face Mask","LANEIGE","Mini Pore Waterclay Mask",25,4.7,1,1,1,1,1
+"361","Face Mask","GLAMGLOW","INSTAMUD 60 Second Pore-Refining Treatment",42,4.1,1,1,1,1,1
+"362","Face Mask","SEPHORA COLLECTION","SUPERMASK - The Silver Mask",6,4.8,1,1,1,1,0
+"363","Face Mask","SEPHORA COLLECTION","Sleeping Mask - Pearl",4,4,0,0,0,0,0
+"364","Face Mask","FRESH","Vitamin Nectar Vitamin C Brightening Powder",40,4.2,0,0,0,0,0
+"365","Face Mask","DR. JART+","Clear Skin Lover Rubber Mask",12,4.2,1,1,1,1,1
+"366","Face Mask","DR. JART+","Dermask Water Jet Soothing Hydra Solution™",6,4.1,1,1,1,1,1
+"367","Face Mask","FOREO","Call It A Night Revitalizing & Nourishing UFO™ Activated Mask",9,4.7,1,1,1,1,1
+"368","Face Mask","DR. JART+","Ceramidin™ Facial Mask",6,4.6,1,1,1,0,1
+"369","Face Mask","BOSCIA","MATCHA Magic Super-Antioxidant Mask",38,4.5,1,1,1,1,1
+"370","Face Mask","KORRES","Pomegranate AHA & Enzymes Resurfacing Mask",34,4.4,1,0,1,1,0
+"371","Face Mask","CAUDALIE","Moisturizing Mask",39,4.3,1,1,1,0,1
+"372","Face Mask","DR. JART+","Dermask Micro Jet Clearing Solution™",9,4.4,1,1,1,1,1
+"373","Face Mask","SEPHORA COLLECTION","Face Mask - Algae - Detoxifying",6,4.3,1,1,1,1,1
+"374","Face Mask","SEPHORA COLLECTION","Face Mask - Grape - Anti-pollution",6,5,1,1,1,1,1
+"375","Face Mask","FOREO","Make My Day Hydrating & Anti-Pollution UFO™ Activated Mask",9,5,1,1,1,1,1
+"376","Face Mask","ORIGINS","Dr. Andrew Weil For Origins™ Mega-Mushroom Relief & Resilience Soothing Face Mask",40,4.5,1,1,1,1,1
+"377","Face Mask","SEPHORA COLLECTION","SUPERMASK - The Mud Mask",6,4.6,1,1,1,1,1
+"378","Face Mask","DR. JART+","Brightening Infusion Hydrogel Mask",7,3.8,1,1,1,1,1
+"379","Face Mask","SEPHORA COLLECTION","Sleeping Mask - Coconut Water",4,5,1,1,1,1,1
+"380","Face Mask","SEPHORA COLLECTION","Face Mask - Algae",6,4.7,0,0,0,0,0
+"381","Face Mask","DR. JART+","Pore Minimalist Black Charcoal Sheet Mask",7,3.9,1,1,1,1,1
+"382","Face Mask","SEPHORA COLLECTION","Nose Strip",3,2.8,0,0,0,0,0
+"383","Face Mask","DR. JART+","Shake & Shot™ Rubber Hydro Mask",12,4.6,1,1,1,1,1
+"384","Face Mask","DR. DENNIS GROSS SKINCARE","Clarifying Colloidal Sulfur Mask",42,4.3,0,0,0,0,0
+"385","Face Mask","BELIF","Pore Cleaner Bubble Foam",36,4.4,1,1,1,1,1
+"386","Face Mask","SEPHORA COLLECTION","Sleeping Mask - Aloe Vera",4,5,1,1,1,1,1
+"387","Face Mask","SEPHORA COLLECTION","Hydrating Lip Mask",3,3,0,0,0,0,0
+"388","Face Mask","DR. JART+","Shake & Shot™ Rubber Brightening Mask",12,4.3,1,1,1,1,1
+"389","Face Mask","SEPHORA COLLECTION","Face Mask - Lotus",6,4.2,0,0,0,0,0
+"390","Face Mask","DR. JART+","Firm Lover Rubber Mask",12,4,1,1,1,1,1
+"391","Face Mask","DR. JART+","Dermask Ultra Jet Porecting Solution Bubbling Charcoal Sheet Mask",9,3.9,1,1,1,1,1
+"392","Face Mask","SATURDAY SKIN","Quench Intense Hydration Mask",6,4.3,1,1,1,1,1
+"393","Face Mask","DR. BRANDT SKINCARE","pores no more® Vacuum Cleaner® Pore Purifying Mask",42,4.1,1,0,0,1,0
+"394","Face Mask","SEPHORA COLLECTION","Lip Mask",3,3.2,0,0,0,0,0
+"395","Face Mask","GLAMGLOW","BUBBLESHEET™ Oxygenating Deep Cleanse Mask - Breast Cancer Awareness Edition",9,5,1,1,1,1,0
+"396","Face Mask","SEPHORA COLLECTION","Polishing Mask",20,3.7,0,0,0,0,0
+"397","Face Mask","SEPHORA COLLECTION","Gel Mask Hydrating & Quenching",20,4.8,0,0,0,0,0
+"398","Face Mask","OLEHENRIKSEN","Hygge HydraClay™ Detox Mask",32,4.2,1,1,1,1,1
+"399","Face Mask","FIRST AID BEAUTY","Skin Rescue Purifying Mask With Red Clay",30,4,1,1,1,1,1
+"400","Face Mask","LANEIGE","Water Pocket Sheet Mask Sleeping Mask (Replenishing)",6,4.8,1,1,1,1,1
+"401","Face Mask","KIEHL'S SINCE 1851","Cilantro & Orange Extract Pollutant Defending Mask",39,4.1,1,1,1,1,1
+"402","Face Mask","DR. JART+","Shake & Shot™ Rubber Soothing Mask",12,4.3,1,1,1,1,1
+"403","Face Mask","CLINIQUE","Pore Refining Solutions Charcoal Mask",28,4.4,0,0,0,0,0
+"404","Face Mask","FOREO","H2Overdose Mask",19,5,1,1,1,1,1
+"405","Face Mask","FIRST AID BEAUTY","Hello FAB Ginger & Turmeric Vitamin C Jelly Mask",32,4.4,1,1,1,1,1
+"406","Face Mask","AMOREPACIFIC","MOISTURE BOUND Intensive Serum Masque",32,3.8,0,0,0,0,0
+"407","Face Mask","MURAD","Pore Extractor Pomegranate Mask",38,4.1,1,0,1,1,0
+"408","Face Mask","TOO COOL FOR SCHOOL","Pumpkin Sleeping Pack",20,4.3,1,1,1,1,1
+"409","Face Mask","CLINIQUE","Acne Solutions Oil-Control Cleansing Mask",25,4.5,0,0,0,0,0
+"410","Face Mask","SEPHORA COLLECTION","Face Mask - Pomegranate",6,4.5,0,0,0,0,0
+"411","Face Mask","FOREO","Glow Addict Mask",19,0,1,1,1,1,1
+"412","Face Mask","DR ROEBUCK’S","Uluru Purifying Mask",28,5,1,1,1,1,1
+"413","Face Mask","BOSCIA","Charcoal Pore-Minimizing Bio-Cellulose Mask",8,4.2,1,1,1,1,1
+"414","Face Mask","TOO COOL FOR SCHOOL","Pumpkin 24K Gold Sheet Mask",8,3.6,1,1,1,1,1
+"415","Face Mask","TARTE","Tight & Bright Clay Multi-Mask",40,4.1,1,1,1,1,1
+"416","Face Mask","DR. JART+","All That Contours Hydrogel Expansion Stretch Mask",35,3.3,1,1,1,1,1
+"417","Face Mask","FOREO","Matte Maniac Mask",19,2.8,1,1,1,1,1
+"418","Face Mask","DR. JART+","Dermask Micro Jet Brightening Solution™",9,4,1,1,1,1,1
+"419","Face Mask","DR. JART+","Dermask Intra Jet Wrinkless Solution™",9,3.9,1,1,1,1,1
+"420","Face Mask","LANCÔME","Rose Jelly Mask",35,4.1,1,1,1,1,1
+"421","Face Mask","FOREO","Shimmer Freak Mask",19,1,1,1,1,1,1
+"422","Face Mask","DR. JART+","Shake & Shot™ Rubber Firming Mask",12,3.8,1,1,1,1,1
+"423","Face Mask","DR. JART+","Dermask Intra Jet Firming Solution™",9,3.3,1,1,1,1,1
+"424","Face Mask","BOSCIA","Tsubaki Oil Deep Hydrating Bio-Cellulose Mask",8,4.1,1,1,1,1,1
+"425","Face Mask","BOSCIA","Multi-Masking™ Medley",18,4.1,1,1,1,1,1
+"426","Face Mask","PHILOSOPHY","Renewed Hope in A Jar Moisture Mask",37,4.8,1,1,1,1,1
+"427","Face Mask","ORIGINS","RitualiTea™ Matcha Madness™ Revitalizing Powder Face Mask with Matcha & Green Tea",36,3.8,1,1,1,1,0
+"428","Face Mask","DR. JART+","Pore Master Patch",7,3.4,1,1,1,1,1
+"429","Face Mask","MURAD","InstaMatte™ Oil-Control Mask",38,4.3,1,0,0,1,0
+"430","Face Mask","SEPHORA COLLECTION","After-Sun Mask - Watermelon",5,4.3,1,1,1,1,1
+"431","Face Mask","BOSCIA","Sake Bright White Mask",38,3.4,1,1,1,0,1
+"432","Face Mask","BOSCIA","Sake Brightening Bio-Cellulose Mask",8,4.3,1,1,1,1,1
+"433","Face Mask","TOO COOL FOR SCHOOL","Egg Cream Mask Firming",6,4.2,1,1,1,0,1
+"434","Face Mask","TOO COOL FOR SCHOOL","Egg Cream Mask Pore Tightening",6,3.7,1,0,0,1,0
+"435","Face Mask","TOO COOL FOR SCHOOL","Coconut Ceramide Mask",6,4.5,1,1,1,1,1
+"436","Face Mask","BELIF","First Aid Transforming Peel Off Mask",34,3.9,0,0,0,0,0
+"437","Face Mask","SEPHORA COLLECTION","Jelly Mask Moisturizing & Energizing",19,4.6,0,0,0,0,0
+"438","Face Mask","ORIGINS","Dragon Fruit Brightening Superfruit Mask",27,3.8,1,1,1,1,0
+"439","Face Mask","REN CLEAN SKINCARE","Clarimatte™ Invisible Pores Detox Mask",38,4,0,0,0,0,0
+"440","Face Mask","BELIF","The True Tincture Mask - Chamomile",36,4.3,0,1,1,0,1
+"441","Face Mask","ORIGINS","GinZing™ Peel-Off Mask to Refine and Refresh",28,3,1,0,1,1,0
+"442","Face Mask","SEPHORA COLLECTION","Nose Mask - Pineapple",3,2.9,1,1,1,1,1
+"443","Face Mask","SEPHORA COLLECTION","Peel-off Mask",20,3.6,1,1,1,1,0
+"444","Face Mask","LANCÔME","Energie de Vie Glow Boosting Mini Mask Trio",39,5,1,1,1,1,1
+"445","Face Mask","LANEIGE","Water Pocket Sheet Mask Water Bank (Moisturizing)",6,4.1,1,1,1,1,1
+"446","Face Mask","ORIGINS","Flower Fusion™ Lavender Soothing Sheet Mask",7,4.3,1,1,1,1,1
+"447","Face Mask","ANTHONY","Deep Pore Cleansing Clay",24,4.4,0,0,0,0,0
+"448","Face Mask","ORIGINS","Flower Fusion™ Rose Hydrating Sheet Mask",7,3.8,1,1,1,1,1
+"449","Face Mask","CLARINS","SOS Hydra Refreshing Hydration Mask",34,3.8,1,1,1,0,0
+"450","Face Mask","ORIGINS","Flower Fusion™ Raspberry Refreshing Sheet Mask",7,4.6,1,1,1,1,1
+"451","Moisturizer","LA MER","Crème de la Mer",175,4.1,1,1,1,1,1
+"452","Moisturizer","SK-II","Facial Treatment Essence",179,4.1,1,1,1,1,1
+"453","Moisturizer","DRUNK ELEPHANT","Protini™ Polypeptide Cream",68,4.4,1,1,1,1,0
+"454","Moisturizer","LA MER","The Moisturizing Soft Cream",175,3.8,1,1,1,1,1
+"455","Moisturizer","IT COSMETICS","Your Skin But Better™ CC+™ Cream with SPF 50+",38,4.1,1,1,1,1,1
+"456","Moisturizer","TATCHA","The Water Cream",68,4.2,1,0,1,1,1
+"457","Moisturizer","DRUNK ELEPHANT","Lala Retro™ Whipped Cream",60,4.2,1,1,1,1,0
+"458","Moisturizer","DRUNK ELEPHANT","Virgin Marula Luxury Facial Oil",72,4.4,1,1,1,1,0
+"459","Moisturizer","KIEHL'S SINCE 1851","Ultra Facial Cream",29,4.4,1,1,1,1,1
+"460","Moisturizer","LA MER","Little Miss Miracle Limited-Edition Crème de la Mer",325,5,0,0,0,0,0
+"461","Moisturizer","FRESH","Lotus Youth Preserve Moisturizer",45,4.3,0,0,0,0,0
+"462","Moisturizer","KIEHL'S SINCE 1851","Midnight Recovery Concentrate",47,4.4,1,1,1,1,1
+"463","Moisturizer","BELIF","The True Cream Aqua Bomb",38,4.5,1,0,1,1,0
+"464","Moisturizer","SUNDAY RILEY","Luna Sleeping Night Oil",105,4.1,1,1,1,1,1
+"465","Moisturizer","FARMACY","Honeymoon Glow AHA Resurfacing Night Serum with Echinacea GreenEnvy™",58,4.6,1,1,1,1,1
+"466","Moisturizer","DRUNK ELEPHANT","The Littles™",90,4.4,1,1,1,1,0
+"467","Moisturizer","FIRST AID BEAUTY","Ultra Repair® Cream Intense Hydration",30,4.6,1,1,1,1,1
+"468","Moisturizer","CLINIQUE","Moisture Surge 72-Hour Auto-Replenishing Hydrator",39,4.4,1,1,1,1,1
+"469","Moisturizer","FRESH","Rose Deep Hydration Moisturizer",40,4.4,0,0,0,0,0
+"470","Moisturizer","SK-II","R.N.A. POWER Face Cream",230,4.3,0,1,1,0,1
+"471","Moisturizer","LA MER","Crème de la Mer Mini",85,4.1,1,1,1,1,1
+"472","Moisturizer","BAREMINERALS","COMPLEXION RESCUE™ Tinted Moisturizer Broad Spectrum SPF 30",30,3.9,0,0,0,0,0
+"473","Moisturizer","SHISEIDO","Bio-Performance Advanced Super Revitalizing Cream",78,4.6,0,0,0,0,0
+"474","Moisturizer","FRESH","Black Tea Firming Overnight Mask",92,4.1,1,1,1,0,0
+"475","Moisturizer","BELIF","The True Cream Moisturizing Bomb",38,4.6,0,1,1,0,0
+"476","Moisturizer","CHARLOTTE TILBURY","Charlotte's Magic Cream",100,4.4,0,0,0,0,0
+"477","Moisturizer","DRUNK ELEPHANT","Virgin Marula Luxury Facial Oil Mini",40,4.5,1,1,1,1,0
+"478","Moisturizer","ORIGINS","Dr. Andrew Weil For Origins™ Mega-Mushroom Relief & Resilience Soothing Treatment Lotion",34,4.4,1,1,1,1,1
+"479","Moisturizer","CLINIQUE","Dramatically Different Moisturizing Lotion+",28,3.9,1,1,0,0,0
+"480","Moisturizer","SK-II","GenOptics Aura Essence Serum",240,4.1,1,1,1,1,1
+"481","Moisturizer","FRESH","Black Tea Kombucha Antioxidant Essence",68,4.4,0,0,0,0,0
+"482","Moisturizer","TATCHA","Pure One Step Camellia Cleansing Oil",48,4.5,1,1,1,1,1
+"483","Moisturizer","OLEHENRIKSEN","Sheer Transformation® Perfecting Moisturizer",38,4.2,1,1,1,1,1
+"484","Moisturizer","JOSIE MARAN","100 percent Pure Argan Oil",48,4.5,0,1,0,1,1
+"485","Moisturizer","IT COSMETICS","Your Skin But Better CC+ Cream Oil-Free Matte with SPF 40",38,3.9,1,1,1,1,0
+"486","Moisturizer","FARSÁLI","Unicorn Essence Antioxidant Primer Serum",54,3.9,0,0,0,0,0
+"487","Moisturizer","LANEIGE","Water Sleeping Mask",25,4.4,1,1,1,1,1
+"488","Moisturizer","LANEIGE","Water Bank Moisture Cream",35,4.4,0,1,1,0,1
+"489","Moisturizer","SK-II","Facial Treatment Essence Mini",99,4.1,1,1,1,1,1
+"490","Moisturizer","DR. JART+","Premium Beauty Balm SPF 45",39,4.2,0,0,0,0,0
+"491","Moisturizer","TATCHA","Luminous Dewy Skin Mist",48,4,1,1,1,0,1
+"492","Moisturizer","SHISEIDO","Benefiance WrinkleResist24 Night Cream",63,4.4,0,1,1,0,0
+"493","Moisturizer","CLINIQUE","Dramatically Different Moisturizing Gel",28,4.5,1,0,0,1,0
+"494","Moisturizer","OLEHENRIKSEN","Goodnight Glow Retin-ALT Sleeping Crème",55,4.3,1,1,1,1,0
+"495","Moisturizer","SUNDAY RILEY","U.F.O. Ultra-Clarifying Face Oil",80,4.2,1,1,1,1,1
+"496","Moisturizer","GLOW RECIPE","Watermelon Glow Sleeping Mask",45,4.1,1,1,1,1,1
+"497","Moisturizer","HERBIVORE","Pink Cloud Rosewater Moisture Crème",48,4.6,1,1,1,1,1
+"498","Moisturizer","TARTE","Radiance Drops - Rainforest of the Sea™ Collection",32,3.7,0,0,0,0,0
+"499","Moisturizer","SUNDAY RILEY","Tidal Brightening Enzyme Water Cream",65,4.2,1,1,1,0,1
+"500","Moisturizer","CAUDALIE","Beauty Elixir",18,4.3,1,0,1,1,1
+"501","Moisturizer","CAUDALIE","Grape Water",10,4.5,1,1,1,1,1
+"502","Moisturizer","YOUTH TO THE PEOPLE","Adaptogen Deep Moisture Cream",58,4.8,1,1,1,1,1
+"503","Moisturizer","LA MER","The Renewal Oil",245,4.2,1,1,1,1,1
+"504","Moisturizer","BIOSSANCE","Squalane + Vitamin C Rose Oil",72,4.4,1,1,1,1,1
+"505","Moisturizer","TARTE","BB Tinted Treatment 12-Hour Primer Broad Spectrum SPF 30 Sunscreen",37,4.3,1,1,1,1,0
+"506","Moisturizer","SHISEIDO","Eudermine Revitalizing Essence",57,4.5,0,0,0,0,0
+"507","Moisturizer","ORIGINS","GinZing™ Energy-Boosting Gel Moisturizer",29,4.4,1,1,1,1,1
+"508","Moisturizer","ESTÉE LAUDER","Micro Essence Skin Activating Treatment Lotion",100,4.4,0,0,0,0,0
+"509","Moisturizer","SON & PARK","Beauty Water",30,4.6,1,1,1,1,1
+"510","Moisturizer","TATCHA","The Silk Cream",120,4.3,1,1,1,0,1
+"511","Moisturizer","OLEHENRIKSEN","C-Rush™ Brightening Gel Crème",44,4.6,1,1,1,1,1
+"512","Moisturizer","AMOREPACIFIC","Color Control Cushion Compact Broad Spectrum SPF 50+",60,4,1,1,1,1,1
+"513","Moisturizer","BOBBI BROWN","Vitamin Enriched Face Base Priming Moisturizer",60,4.5,1,0,1,1,0
+"514","Moisturizer","DR. JART+","Cicapair ™ Tiger Grass Color Correcting Treatment SPF 30",52,4.2,1,1,1,1,1
+"515","Moisturizer","CAUDALIE","Vinosource Moisturizing Sorbet",39,4.2,1,1,1,1,1
+"516","Moisturizer","HERBIVORE","Lapis Oil Balancing Facial Oil",72,4.4,1,0,1,1,0
+"517","Moisturizer","ERBORIAN","CC Crème High Definition Radiance Face Cream Skin Perfector",44,4.1,1,1,1,1,1
+"518","Moisturizer","SMASHBOX","Camera Ready BB Cream SPF 35",42,4,0,0,0,0,0
+"519","Moisturizer","SUNDAY RILEY","C.E.O. C + E antiOXIDANT Protect + Repair Moisturizer",65,4.1,1,1,1,1,1
+"520","Moisturizer","FARSÁLI","Rose Gold Elixir – 24k Gold Infused Beauty Oil",54,4,0,0,0,0,0
+"521","Moisturizer","IT COSMETICS","Your Skin But Better™ CC+Illumination™ Cream with SPF 50+",38,3.9,1,1,1,1,1
+"522","Moisturizer","TATCHA","Luminous Dewy Skin Night Concentrate",110,4.5,1,1,1,0,1
+"523","Moisturizer","GLAMGLOW","GLOWSTARTER™ Mega Illuminating Moisturizer",49,4,1,1,1,1,0
+"524","Moisturizer","ESTÉE LAUDER","Revitalizing Supreme Global Anti-Aging Crème",82,4.4,0,0,0,0,0
+"525","Moisturizer","DR. JART+","Ceramidin™ Cream",48,4.6,1,1,1,0,1
+"526","Moisturizer","SUNDAY RILEY","Juno Antioxidant + Superfood Face Oil",72,4.4,0,1,1,0,1
+"527","Moisturizer","FRESH","Seaberry Moisturizing Face Oil",52,4.4,0,0,0,0,0
+"528","Moisturizer","LANEIGE","BB Cushion Hydra Radiance SPF 50",38,4.3,1,1,1,1,1
+"529","Moisturizer","AMOREPACIFIC","FUTURE RESPONSE Age Defense Creme",195,4.4,1,1,1,1,1
+"530","Moisturizer","GLAMGLOW","THIRSTYMUD™ Hydrating Treatment",59,4.3,1,1,1,1,0
+"531","Moisturizer","FARMACY","Honey Drop Lightweight Moisturizer with Echinacea GreenEnvy™",45,4.1,1,1,1,1,1
+"532","Moisturizer","PETER THOMAS ROTH","Water Drench Hyaluronic Cloud Cream",52,4.4,1,1,1,1,1
+"533","Moisturizer","AMOREPACIFIC","Vintage Single Extract Essence",145,4.5,1,1,1,1,0
+"534","Moisturizer","IT COSMETICS","Confidence in a Cream™ Transforming Moisturizing Super Cream",48,4.3,1,1,1,1,1
+"535","Moisturizer","FRESH","Black Tea Corset Cream Firming Moisturizer",95,4,0,0,0,0,0
+"536","Moisturizer","FRESH","Crème Ancienne®",290,4.4,1,1,1,1,1
+"537","Moisturizer","FIRST AID BEAUTY","Hello FAB Coconut Skin Smoothie Priming Moisturizer",28,4.2,1,1,1,1,1
+"538","Moisturizer","IT COSMETICS","Secret Sauce Clinically Advanced Miraculous Anti-Aging Moisturizer",68,3.8,1,1,1,1,1
+"539","Moisturizer","SHISEIDO","Benefiance WrinkleResist24 Day Cream Broad Spectrum SPF 18",60,4.3,0,1,1,0,0
+"540","Moisturizer","FRESH","Rose Floral Toner",40,4.1,0,0,0,0,0
+"541","Moisturizer","ORIGINS","High-Potency Night-a-Mins™ Oil-Free Resurfacing Cream with Fruit-Derived AHAs",45,4.3,0,0,1,1,0
+"542","Moisturizer","TARTE","Amazonian Clay BB Tinted Moisturizer Broad Spectrum SPF 20 Sunscreen",36,4.3,0,0,0,0,0
+"543","Moisturizer","CLINIQUE","Moisture Surge Intense Skin Fortifying Hydrator",39,4.4,1,1,0,0,0
+"544","Moisturizer","JOSIE MARAN","Argan Daily Moisturizer SPF 47",32,3.9,1,1,1,1,1
+"545","Moisturizer","LANEIGE","Water Bank Essence",36,4.7,1,1,1,1,1
+"546","Moisturizer","JACK BLACK","Double-Duty Face Moisturizer Broad Spectrum SPF 20",28,4.5,0,0,0,0,0
+"547","Moisturizer","GLOW RECIPE","Watermelon Pink Juice Moisturizer",39,4.1,1,0,1,1,1
+"548","Moisturizer","LA MER","The Concentrate Mini",190,0,0,0,0,0,0
+"549","Moisturizer","LA MER","The Moisturizing Cool Gel Cream",175,3.3,1,1,1,1,1
+"550","Moisturizer","PHILOSOPHY","Renewed Hope in A Jar Refreshing & Refining Moisturizer",39,4.1,1,1,1,1,1
+"551","Moisturizer","PERRICONE MD","Cold Plasma Sub-D Firming Neck Treatment",135,3.8,1,1,1,1,1
+"552","Moisturizer","LANCÔME","Rénergie Lift Multi-Action Night",122,4.3,1,1,1,1,1
+"553","Moisturizer","ALGENIST","GENIUS Ultimate Anti-Aging Cream",112,4.3,1,1,1,1,1
+"554","Moisturizer","IT COSMETICS","Your Skin But Better™ CC+ Airbrush Perfecting Powder™ with SPF 50+",35,3.6,0,0,0,0,0
+"555","Moisturizer","DR. JART+","Cicapair™ Tiger Grass Cream",48,4.3,1,1,1,1,1
+"556","Moisturizer","CLINIQUE","Dramatically Different Hydrating Jelly",28,4,1,0,1,1,1
+"557","Moisturizer","JOSIE MARAN","Whipped Argan Oil Face Butter",40,4.1,1,1,1,1,1
+"558","Moisturizer","OLEHENRIKSEN","Nurture Me™ Moisturizing Crème",40,4.4,0,1,0,0,1
+"559","Moisturizer","SHISEIDO","Benefiance WrinkleResist24 Balancing Softener Enriched",45,4.6,0,0,0,0,0
+"560","Moisturizer","FARMACY","Sleep Tight Firming Night Balm with Echinacea GreenEnvy™",48,4.3,1,1,1,1,1
+"561","Moisturizer","ORIGINS","Original Skin™ Matte Moisturizer with Willowherb",35,4.5,0,1,1,1,0
+"562","Moisturizer","HERBIVORE","Phoenix Cell Regenerating Facial Oil",88,4.5,0,1,0,0,1
+"563","Moisturizer","OLEHENRIKSEN","Invigorating Night Transformation™ Gel",48,4.3,1,1,1,1,1
+"564","Moisturizer","BELIF","Aqua Bomb Sleeping Mask",34,4.7,1,1,1,1,1
+"565","Moisturizer","CHARLOTTE TILBURY","Charlotte's Magic Cream Mini",29,3.5,0,0,0,0,0
+"566","Moisturizer","YOUTH TO THE PEOPLE","Superfood Air-Whip Hyaluronic Acid Moisture Cream",48,4.2,1,0,1,1,1
+"567","Moisturizer","SK-II","Facial Treatment Essence Karan Singh Limited Edition",229,0,0,0,0,0,0
+"568","Moisturizer","TATCHA","The Indigo Cream Soothing Skin Protectant",85,4.2,1,1,1,1,1
+"569","Moisturizer","KIEHL'S SINCE 1851","Super Multi-Corrective Cream",84,4.3,0,0,0,0,0
+"570","Moisturizer","BIOSSANCE","Squalane + Omega Repair Cream",58,4.7,1,1,1,0,1
+"571","Moisturizer","SHISEIDO","Bio-Performance Advanced Super Restoring Cream",127,4.3,0,0,0,0,0
+"572","Moisturizer","ORIGINS","High-Potency Night-a-Mins™ Resurfacing Cream with Fruit-Derived AHAs",45,4.3,0,1,1,0,0
+"573","Moisturizer","SHISEIDO","Benefiance WrinkleResist24 Day Emulsion Broad Spectrum SPF 18",60,4.3,0,0,0,0,0
+"574","Moisturizer","MAKE UP FOR EVER","Mist & Fix Setting Spray",30,4.2,0,0,0,0,0
+"575","Moisturizer","IT COSMETICS","Bye Bye Redness™ Neutralizing Correcting Cream",32,4.2,0,0,0,0,0
+"576","Moisturizer","KIEHL'S SINCE 1851","Daily Reviving Concentrate",47,4.7,1,1,1,1,1
+"577","Moisturizer","BOBBI BROWN","BB Cream SPF 35",47,3.9,1,0,1,1,0
+"578","Moisturizer","FRESH","Vitamin C Glow Moisturizer",42,4.3,1,0,1,1,1
+"579","Moisturizer","KORRES","Wild Rose + Vitamin C Advanced Brightening Sleeping Facial",48,4.4,1,1,1,1,1
+"580","Moisturizer","FRESH","Vitamin Nectar Antioxidant Face Mist",44,4.8,0,0,0,0,0
+"581","Moisturizer","BELIF","Peat Miracle Revital Cream",58,4.7,1,1,1,0,0
+"582","Moisturizer","YOUTH TO THE PEOPLE","Superberry Hydrate + Glow Oil",44,4.8,1,1,1,0,1
+"583","Moisturizer","MURAD","Hydro-Dynamic® Ultimate Moisture",75,4.4,0,0,0,0,0
+"584","Moisturizer","IT COSMETICS","Miracle Water 3-in-1 Micellar Cleanser",38,4.5,1,1,1,1,1
+"585","Moisturizer","TARTE","Drink of H2O Hydrating Boost Moisturizer Rainforest of the Sea™",39,4.4,1,1,1,1,1
+"586","Moisturizer","SMASHBOX","Photo Finish Primer Water",32,4.1,1,1,1,1,1
+"587","Moisturizer","FIRST AID BEAUTY","Ultra Repair Hydra-Firm Sleeping Cream",38,4.3,1,1,1,1,1
+"588","Moisturizer","MURAD","Retinol Youth Renewal Night Cream",82,4.6,1,1,1,1,1
+"589","Moisturizer","ESTÉE LAUDER","Nutritious Vitality8™ Radiant Moisture Creme",65,4,0,0,0,0,0
+"590","Moisturizer","TATCHA","The Essence Plumping Skin Softener",95,4.4,1,1,1,1,1
+"591","Moisturizer","GUERLAIN","Midnight Secret Late Night Recovery Treatment",29,4.2,1,1,1,1,1
+"592","Moisturizer","BIOSSANCE","Squalane + Probiotic Gel Moisturizer",52,4.4,1,1,1,1,1
+"593","Moisturizer","DIOR","Capture Dreamskin Fresh & Perfect Cushion Broad Spectrum SPF 50",82,4.2,0,0,0,0,0
+"594","Moisturizer","SMASHBOX","Photo Finish Primerizer",42,4.1,1,1,1,1,0
+"595","Moisturizer","ORIGINS","A Perfect World™ SPF 40 Age-Defense Moisturizer with White Tea",45,3.5,1,1,1,1,1
+"596","Moisturizer","KORA ORGANICS","Noni Glow Face Oil",68,4.3,1,1,1,1,1
+"597","Moisturizer","LANEIGE","Water Bank Hydrating Gel",35,4.6,1,0,1,1,1
+"598","Moisturizer","SK-II","GenOptics Spot Essence Serum",225,4.2,1,1,1,1,1
+"599","Moisturizer","DR. DENNIS GROSS SKINCARE","Ferulic + Retinol Anti-Aging Moisturizer",75,4.1,1,1,1,1,1
+"600","Moisturizer","REN CLEAN SKINCARE","Evercalm™ Overnight Recovery Balm",48,4.9,1,1,1,1,1
+"601","Sun protect","LAURA MERCIER","Tinted Moisturizer Broad Spectrum SPF 20",45,4.4,0,0,0,0,0
+"602","Sun protect","LAURA MERCIER","Tinted Moisturizer Broad Spectrum SPF 20 - Oil Free",45,4.3,0,0,0,0,0
+"603","Sun protect","SHISEIDO","Urban Environment Oil-Free UV Protector Broad Spectrum SPF 42 For Face",34,4.5,1,0,1,1,0
+"604","Sun protect","NARS","Pure Radiant Tinted Moisturizer Broad Spectrum SPF 30",45,4.4,0,0,0,0,0
+"605","Sun protect","SUPERGOOP!","Unseen Sunscreen Broad Spectrum SPF 40",32,4.5,1,1,1,1,0
+"606","Sun protect","LAURA MERCIER","Tinted Moisturizer SPF 20 - Illuminating",45,4.4,0,0,0,0,0
+"607","Sun protect","TATCHA","Silken Pore Perfecting Sunscreen Broad Spectrum SPF 35 PA+++",65,4.5,1,1,1,1,1
+"608","Sun protect","SHISEIDO","Ultimate Sun Protection Lotion WetForce SPF 50+",40,3.7,1,1,1,1,1
+"609","Sun protect","SUPERGOOP!","Everyday Sunscreen Broad Spectrum SPF 50",19,4.3,1,1,1,1,0
+"610","Sun protect","KIEHL'S SINCE 1851","Super Fluid Daily UV Defense Sunscreen Broad Spectrum SPF 50+",61,4.4,1,1,1,1,1
+"611","Sun protect","LANCÔME","BIENFAIT UV SPF 50+ Super Fluid Facial Sunscreen",40,4.4,0,0,0,0,0
+"612","Sun protect","NEOGEN DERMALOGY","Day-Light Protection Sun Screen SPF 50 PA+++",30,4.6,1,1,1,1,1
+"613","Sun protect","MURAD","City Skin Age Defense Broad Spectrum SPF 50 PA++++",65,4.7,1,1,1,0,1
+"614","Sun protect","DRUNK ELEPHANT","Umbra™ Sheer Physical Daily Defense Broad Spectrum Sunscreen SPF 30",34,3.3,1,1,1,1,1
+"615","Sun protect","DRUNK ELEPHANT","Umbra Tinte™ Physical Daily Defense Broad Spectrum Sunscreen SPF 30",36,3.6,1,1,1,1,1
+"616","Sun protect","CLARINS","UV PLUS Anti-Pollution Sunscreen Multi-Protection Tint SPF 50",45,4.1,0,0,0,0,0
+"617","Sun protect","SHISEIDO","Urban Environment Tinted UV Protector Broad Spectrum SPF 43",34,4.3,0,0,0,0,0
+"618","Sun protect","CLARINS","Sunscreen Multi-Protection Broad Spectrum SPF 50",43,3.9,0,0,0,0,0
+"619","Sun protect","SUPERGOOP!","100% Mineral Smooth & Poreless Matte Screen SPF 40",38,3.7,1,1,1,1,1
+"620","Sun protect","LAURA MERCIER","Foundation Primer Protect Broad Spectrum SPF 30 Sunscreen PA+++",38,4.1,0,0,0,0,0
+"621","Sun protect","NARS","Radiance Primer Broad Spectrum SPF 35 Sunscreen",36,4.1,0,0,0,0,0
+"622","Sun protect","JOSIE MARAN","Argan Daily Moisturizer Tinted SPF 47 Protect + Perfect",36,4,0,0,0,0,0
+"623","Sun protect","FARMACY","Green Screen Daily Environmental Protector Broad Spectrum MineralSunscreen SPF 30 with Echinacea GreenEnvy™",36,4.6,1,1,1,1,1
+"624","Sun protect","COOLA","Full Spectrum 360° Sun Silk Drops SPF 30",46,4.6,1,1,1,1,1
+"625","Sun protect","SHISEIDO","Ultimate Sun Protection Cream Broad Spectrum SPF 50+ Wetforce For Face",36,4.1,0,0,0,0,0
+"626","Sun protect","AMOREPACIFIC","MOISTURE BOUND Tinted Treatment Moisturizer SPF 15",70,4.2,1,1,1,0,1
+"627","Sun protect","PETER THOMAS ROTH","Max Sheer All Day Moisture Defense Lotion SPF 30 Sunscreen Lotion",42,4.1,0,0,0,0,0
+"628","Sun protect","PETER THOMAS ROTH","Max Mineral Naked Broad Spectrum SPF 45",38,4.6,1,1,1,1,1
+"629","Sun protect","SUPERGOOP!","City Sunscreen Serum SPF 30",42,4.1,1,1,1,1,0
+"630","Sun protect","PHILOSOPHY","Renewed Hope in a Jar Skin Tint",39,4.1,1,1,1,1,1
+"631","Sun protect","PHILOSOPHY","Renewed Hope In A Jar SPF 30",39,3.8,0,0,0,0,0
+"632","Sun protect","COOLA","Mineral Face SPF 30 - Matte Tint",36,4.1,1,0,1,1,1
+"633","Sun protect","PERRICONE MD","High Potency Classics: Face Finishing & Firming Moisturizer Tint SPF 30",69,4.3,1,1,1,1,0
+"634","Sun protect","MURAD","Perfecting Day Cream Broad Spectrum SPF 30 PA+++",54,4.2,0,0,0,0,0
+"635","Sun protect","AMOREPACIFIC","FUTURE RESPONSE Age Defense Creme SPF 30",195,3.8,1,1,1,1,1
+"636","Sun protect","ESTÉE LAUDER","Advanced Time Zone SPF 15- Normal/Combination Skin",75,3.8,0,0,0,0,0
+"637","Sun protect","CLARINS","Multi-Active Day Cream SPF 20 - All Skin Types",54,3.5,0,0,0,0,0
+"638","Sun protect","LANCÔME","Bienfait Teinté Beauty Balm Sunscreen Broad Spectrum SPF 30",49,4.2,0,0,0,0,0
+"639","Sun protect","SHISEIDO","Future Solution LX Total Protective Cream Broad Spectrum SPF 20 Sunscreen",260,5,1,1,1,1,1
+"640","Sun protect","ORIGINS","Plantscription™ SPF 25 Power Anti-Aging Oil-Free Cream",60,4.6,1,0,1,1,1
+"641","Sun protect","SHISEIDO","Sports BB Broad Spectrum SPF 50+ WetForce",38,4.1,1,1,1,1,0
+"642","Sun protect","COOLA","Rōsilliance™ Organic BB+ Cream SPF 30",52,3.8,1,1,1,0,1
+"643","Sun protect","DIOR","Hydra Life BB Creme Broad Spectrum SPF 30",60,4,0,0,0,0,0
+"644","Sun protect","SUPERGOOP!","Defense Refresh Setting Mist Broad Spectrum SPF 50",28,3.3,1,1,1,1,0
+"645","Sun protect","LANCÔME","Bienfait Multi-Vital Sunscreen Lotion Broad Spectrum SPF 30",49,4.2,0,0,0,0,0
+"646","Sun protect","SEPHORA COLLECTION","8 HR Mattifying Moisturizer Sunscreen Broad Spectrum SPF20",23,4.2,1,1,1,1,1
+"647","Sun protect","CLINIQUE","Smart Broad Spectrum SPF 15 Custom-Repair Moisturizer for Dry Combination Skin",55,4.3,0,0,0,0,0
+"648","Sun protect","CLINIQUE","Age Defense BB Cream Broad Spectrum SPF 30",39,3.9,0,0,0,0,0
+"649","Sun protect","VOLITION BEAUTY","Prismatic Luminizing Shield SPF 50",35,4.2,1,1,1,1,1
+"650","Sun protect","ESTÉE LAUDER","Daywear Advanced Multi-Protection Anti-Oxidant Creme Oil-Free Broad Spectrum SPF 25",54,3.8,0,0,0,0,0
+"651","Sun protect","SMASHBOX","Photo Finish Foundation Primer SPF 20",42,4.1,1,1,1,1,1
+"652","Sun protect","TARTE","Tarteguard Mineral Powder Sunscreen Broad Spectrum SPF 30",28,4.2,1,1,1,1,1
+"653","Sun protect","KIEHL'S SINCE 1851","Ultra Facial Moisturizer SPF 30",31,3.7,1,1,1,1,1
+"654","Sun protect","SHISEIDO","Benefiance NutriPerfect Day Cream Broad Spectrum SPF 18",90,4.1,0,0,0,0,0
+"655","Sun protect","CLINIQUE","Super City Block Oil-Free Daily Face Protector Broad Spectrum 40 SPF",26,4.2,0,0,0,0,0
+"656","Sun protect","FIRST AID BEAUTY","Ultra Repair® Pure Mineral Sunscreen Moisturizer Broad Spectrum SPF 40",30,3.6,1,1,1,1,1
+"657","Sun protect","KIEHL'S SINCE 1851","Powerful Wrinkle Reducing Cream Sunscreen Broad Spectrum SPF 30",74,3.5,1,1,1,1,1
+"658","Sun protect","COOLA","Mineral Face SPF 30 - Cucumber Matte",36,4.4,1,0,1,1,1
+"659","Sun protect","KIEHL'S SINCE 1851","Super Multi-Corrective Cream Sunscreen Broad Spectrum SPF 30",84,3.5,1,1,1,1,1
+"660","Sun protect","LA MER","The Broad Spectrum SPF 50 UV Protecting Fluid",95,4.7,0,0,0,0,0
+"661","Sun protect","SUPERGOOP!","Supergoop! x Milly Defense Refresh Setting Mist Broad Spectrum Sunscreen SPF 50",28,3.7,1,1,1,1,1
+"662","Sun protect","COOLA","Daydream™ Mineral Primer SPF 30",42,4.2,1,0,1,1,1
+"663","Sun protect","SHISEIDO","Ultimate Sun Protection Spray Broad Spectrum SPF 50+ For Face/Body",36,4.2,0,0,0,0,0
+"664","Sun protect","SHISEIDO","Ultimate Sun Protection Lotion WetForce SPF 50+ Mini",22,5,1,1,1,1,1
+"665","Sun protect","SHISEIDO","Wetforce Clear Stick UV Protector Broad Spectrum 50+",28,4.3,1,1,1,1,1
+"666","Sun protect","PETER THOMAS ROTH","Instant Mineral SPF 45",30,3.4,1,1,1,1,1
+"667","Sun protect","ILIA","Sheer Vivid Tinted Moisturizer SPF 20",42,3.7,1,1,1,1,1
+"668","Sun protect","DIOR","One Essential City Defense SPF 50",59,4.3,0,0,0,0,0
+"669","Sun protect","CLINIQUE","Superdefense SPF 20 Age Defense Moisturizer Combination Oily to Oily",48,4,0,0,0,0,0
+"670","Sun protect","SUPERGOOP!","Glow Stick Sunscreen SPF 50",25,4.2,1,1,0,0,1
+"671","Sun protect","FIRST AID BEAUTY","Hello FAB Triple Protection Skin Tint with Goji Berry SPF 30",34,4.1,1,1,1,1,1
+"672","Sun protect","AMOREPACIFIC","Natural Protector Broad Spectrum SPF 35 Sunscreen",65,4,1,1,1,1,1
+"673","Sun protect","FRESH","Black Tea Age-Delay Lotion Broad Spectrum Sunscreen SPF 20",70,3.5,1,1,1,1,0
+"674","Sun protect","CLINIQUE","Broad Spectrum SPF 50 Sunscreen Face Cream",26,4.2,0,0,0,0,0
+"675","Sun protect","ERBORIAN","CC Red Correct Automatic Perfector Broad Spectrum SPF 25",44,4.5,1,1,1,1,1
+"676","Sun protect","BIOSSANCE","Squalane + Mineral SPF 45",39,3.7,1,1,1,1,1
+"677","Sun protect","LANCER","Sheer Fluid Sun Shield Broad Spectrum SPF 30 Sunscreen",55,4.8,1,1,1,1,1
+"678","Sun protect","SUPERGOOP!","Sun-Defying Sunscreen Oil Broad Spectrum SPF 50",34,4.1,1,1,1,0,0
+"679","Sun protect","CLINIQUE","Smart Broad Spectrum SPF 15 Custom-Repair Moisturizer for Very Dry to Dry Skin",55,4.4,0,0,0,0,0
+"680","Sun protect","TARTE","Tarteguard 20 Tinted Moisturizer Broad Spectrum SPF 20 Sunscreen",36,4,1,1,1,1,1
+"681","Sun protect","JACK BLACK","Oil-Free Sun Guard Sunscreen Water Resistant SPF 45",21,4.6,0,0,0,0,0
+"682","Sun protect","CLINIQUE","Pep-Start Daily UV Protector Broad Spectrum SPF 50",19,4.2,1,1,1,1,1
+"683","Sun protect","TARTE","Tarteguard 30 Vegan Sunscreen Lotion Broad Spectrum SPF 30",32,3.7,1,1,1,1,1
+"684","Sun protect","LAURA MERCIER","Flawless Skin Mega Moisturizer SPF 15 - Normal/Dry Skin",53,4.1,0,0,0,0,0
+"685","Sun protect","COOLA","Classic Face Sport SPF 50 - White Tea",32,3.9,1,1,1,0,1
+"686","Sun protect","COOLA","Classic Face SPF 30 - Unscented",32,4.1,1,1,1,0,1
+"687","Sun protect","FRESH","Sugar Sport Treatment Sunscreen SPF 30",25,4.1,0,0,0,0,0
+"688","Sun protect","MURAD","Balancing Moisturizer Broad Spectrum SPF 15 PA++",40,3.7,0,0,0,0,0
+"689","Sun protect","SUPERGOOP!","Forever Young Body Butter with Sea Buckthorn SPF 40 PA+++",34,4.7,0,0,0,0,0
+"690","Sun protect","MURAD","Resurgence® Age–Balancing Moisture Broad Spectrum SPF 30",72,4.3,0,0,0,0,0
+"691","Sun protect","COOLA","Makeup Setting Spray SPF 30",36,3.4,1,0,1,1,0
+"692","Sun protect","SUPERGOOP!","Super Power Sunscreen Mousse Broad Spectrum SPF 50",34,4.3,1,1,1,1,0
+"693","Sun protect","ALGENIST","Repairing Tint & Radiance Moisturizer SPF 30",42,4.1,0,0,0,0,0
+"694","Sun protect","DERMADOCTOR","DD Cream Dermatologically Defining BB Cream Broad Spectrum SPF 30",38,3.4,0,0,0,0,0
+"695","Sun protect","CLARINS","50+ SPF Sunscreen For Face Wrinkle Control Cream",35,4.1,0,0,0,0,0
+"696","Sun protect","CLINIQUE","Repairwear Uplifting Firming Cream Broad Spectrum SPF 15",64,3.8,0,0,0,0,0
+"697","Sun protect","CLINIQUE","Broad Spectrum SPF 50 Mineral Sunscreen Fluid for Face",28,3.8,1,1,1,1,1
+"698","Sun protect","SHISEIDO","Extra Smooth Sun Protection Cream SPF 38 PA+++",34,4.5,0,0,0,0,0
+"699","Sun protect","MDSOLARSCIENCES","Mineral Crème Broad Spectrum SPF 50 UVA-UVB Sunscreen",30,4.3,1,1,1,0,1
+"700","Sun protect","DR. DENNIS GROSS SKINCARE","Sheer Mineral Sun Spray SPF 50",42,4.1,0,0,0,0,0
+"701","Sun protect","BELIF","Moisturizing Bomb Cushion Compact Broad Spectrum SPF 50",42,3.7,1,1,1,1,0
+"702","Sun protect","LAURA MERCIER","Flawless Skin Mega Moisturizer SPF 15 - Normal/Combination Skin",53,4.4,0,0,0,0,0
+"703","Sun protect","ILIA","Radiant Translucent Powder SPF 20",34,4.8,0,0,0,0,0
+"704","Sun protect","ESTÉE LAUDER","DayWear UV Base Advanced Anti-Oxidant & UV Defense SPF 50",44,4.2,0,0,0,0,0
+"705","Sun protect","DR. DENNIS GROSS SKINCARE","Dark Spot Sun Defense Broad Spectrum SPF 50",42,3.8,0,0,0,0,0
+"706","Sun protect","COOLA","Classic Face SPF 30 - Cucumber",32,4.4,1,1,1,0,1
+"707","Sun protect","CLINIQUE","Repairwear Laser Focus Line Smoothing Cream Broad Spectrum SPF 15 for Very Dry to Dry Combination Skin",50,4.4,0,0,0,0,0
+"708","Sun protect","SUPERGOOP!","Invincible Setting Powder SPF 45 Refill",20,5,1,1,1,1,1
+"709","Sun protect","MOROCCANOIL","Face Lotion SPF 30",38,0,1,1,1,1,1
+"710","Sun protect","DERMADOCTOR","Photo Dynamic Therapy® 3–in–1 Facial Lotion With Broad Spectrum SPF 30",85,3.9,0,0,0,0,0
+"711","Sun protect","CLINIQUE","Broad Spectrum SPF 30 Mineral Sunscreen Fluid for Face",28,4.4,1,1,1,1,1
+"712","Sun protect","COOLA","Classic Sport SPF 50 - Fresh Mango",32,4.6,1,1,1,1,1
+"713","Sun protect","ESTÉE LAUDER","DayWear Multi-Protection Anti-Oxidant Sheer Tint Release Moisturizer Broad Spectrum SPF 15 - Normal/ Combination Skin",54,4.6,0,0,0,0,0
+"714","Sun protect","DR. DENNIS GROSS SKINCARE","Instant Radiance Sun Defense Sunscreen Broad Spectrum SPF 40",42,3.9,1,1,1,1,1
+"715","Sun protect","KIEHL'S SINCE 1851","Super Fluid UV Mineral Defense Titanium Dioxide Sunscreen Broad Spectrum SPF 50+",38,3.7,0,0,0,1,1
+"716","Sun protect","LANCÔME","Rènergie Lift Multi-Action Sunscreen Broad Spectrum SPF 15 For Dry Skin",99,4.2,0,1,0,0,0
+"717","Sun protect","TOM FORD","Face Protect SPF 50",76,4.6,0,0,0,0,0
+"718","Sun protect","SKIN LAUNDRY","Daily Moisturizer Broad Spectrum SPF 35",25,4.1,1,1,1,1,1
+"719","Sun protect","KATE SOMERVILLE","UncompliKated SPF 50 Soft Focus Makeup Setting Spray",38,3.2,1,1,1,1,0
+"720","Sun protect","CLINIQUE","City Block Sheer Oil-Free Daily Face Protector SPF 25",26,4.1,0,0,0,0,0
+"721","Sun protect","COOLA","Sport Continuous Spray SPF 50 - Unscented",36,4.4,1,1,1,1,1
+"722","Sun protect","LAURA MERCIER","Flawless Skin Daily Face Shield SPF 40",45,4.2,0,0,0,0,0
+"723","Sun protect","KAPLAN MD","Daily Moisture SPF 30 Concentrate",100,4,0,0,0,0,0
+"724","Sun protect","HUM NUTRITION","Turn Back Time Anti-Aging Supplement",40,4.2,0,0,0,0,0
+"725","Sun protect","CLINIQUE","Smart Broad Spectrum SPF 15 Custom-Repair Moisturizer for Combination Oily Skin",55,4.3,0,0,0,0,0
+"726","Sun protect","ESTÉE LAUDER","DayWear BB Anti-Oxidant Beauty Benefit Crème SPF 35",42,3.7,0,0,0,0,0
+"727","Sun protect","ANTHONY","Day Cream Broad Spectrum Sunscreen SPF 30",34,4,1,1,1,1,1
+"728","Sun protect","MDSOLARSCIENCES","Daily Anti-Aging Moisturizer SPF 30",75,4.1,1,0,1,1,1
+"729","Sun protect","KORRES","After Sun Greek Yoghurt Cooling Gel for Face and Body",26,4.6,1,1,1,1,1
+"730","Sun protect","AMOREPACIFIC","Resort Collection Sun Protection Cushion SPF 30+",40,4,0,0,0,0,0
+"731","Sun protect","COOLA","Sport Continuous Spray SPF 50 - Guava Mango",36,4.1,1,1,1,1,1
+"732","Sun protect","MDSOLARSCIENCES","Mineral Moisture Defense Body Broad Spectrum SPF 50 UVA-UVB Sunscreen",39,4.1,0,0,0,0,0
+"733","Sun protect","COOLA","ER+ Radical Recovery After-Sun Lotion",32,4.8,1,1,1,1,1
+"734","Sun protect","ILIA","Flow-Thru Radiant Transclucent Powder SPF 20",34,3.6,1,0,1,0,1
+"735","Sun protect","EVE LOM","Daily Protection Broad Spectrum SPF 50 Sunscreen",90,4.4,1,1,1,1,1
+"736","Sun protect","DR. BRANDT SKINCARE","pores no more® multi-performance stick",35,3.6,1,1,1,1,0
+"737","Sun protect","CLARINS","Sunscreen Cream High Protection SPF 30",36,3.8,0,0,0,0,0
+"738","Sun protect","MDSOLARSCIENCES","Mineral Sunscreen Stick Broad Spectrum SPF 40 UVA-UVB Sunscreen",18,4.5,1,1,1,0,1
+"739","Sun protect","CLINIQUE","Repairwear Laser Focus Line Smoothing Cream Broad Spectrum SPF 15 for Combination Oily to Oily Skin",50,3.7,0,0,0,0,0
+"740","Sun protect","COOLA","Sport Continuous Spray SPF 30 - Tropical Coconut",36,4.8,1,1,1,1,1
+"741","Sun protect","MDSOLARSCIENCES","MD Crème Mineral Beauty Balm Broad Spectrum SPF 50 UVA-UVB Sunscreen",39,4.2,1,1,1,1,1
+"742","Sun protect","CANE + AUSTIN","Protect Ultra Sheer Weightless Sunscreen Broad Spectrum SPF 50+ UVA/UVB",40,4.1,0,0,0,0,0
+"743","Sun protect","SUPERGOOP!","100% Mineral Sunscreen Mist with Marigold Extract Broad Spectrum SPF 30",34,3.8,1,1,1,1,1
+"744","Sun protect","MOROCCANOIL","Sun Oil 15 SPF",32,4.9,1,1,1,0,0
+"745","Sun protect","CLINIQUE","Oil-Free Face Cream Broad Spectrum SPF 30",26,3.3,1,1,1,1,1
+"746","Sun protect","PHILOSOPHY","Ultimate Miracle Worker Multi-Rejuvenating Lightweight Emulsion SPF 30",75,3.7,1,1,1,1,1
+"747","Sun protect","AMOREPACIFIC","Resort Collection Sun Protection Mist Broad Spectrum SPF 30 Sunscreen",32,3.3,1,1,1,1,1
+"748","Sun protect","BLACK UP","Primer Broad Spectrum Sunscreen SPF 25",45,4.7,0,0,0,0,0
+"749","Sun protect","COOLA","Sport Continuous Spray SPF 30 - Piña Colada",36,4.5,1,1,1,1,1
+"750","Sun protect","MOROCCANOIL","Sun Lotion 50 SPF",32,3.9,1,1,1,1,0
+"751","Treatment","DRUNK ELEPHANT","C-Firma™ Day Serum",80,4.1,1,1,1,1,0
+"752","Treatment","SUNDAY RILEY","Good Genes All-In-One Lactic Acid Treatment",158,4.3,1,1,1,1,0
+"753","Treatment","ESTÉE LAUDER","Advanced Night Repair Synchronized Recovery Complex II",98,4.3,1,1,1,1,1
+"754","Treatment","OLEHENRIKSEN","Truth Serum®",48,4.3,1,1,1,1,1
+"755","Treatment","LANCÔME","Advanced Génifique Youth Activating Serum Duo",178,2,0,0,0,0,0
+"756","Treatment","DR. DENNIS GROSS SKINCARE","Alpha Beta® Extra Strength Daily Peel",88,4.5,1,1,1,1,0
+"757","Treatment","LANCÔME","Advanced Génifique Youth Activating Serum",105,4.5,1,1,1,1,1
+"758","Treatment","KIEHL'S SINCE 1851","Clearly Corrective™ Dark Spot Solution",50,3.5,1,1,1,1,1
+"759","Treatment","LA MER","The Concentrate",370,3.9,0,0,0,0,0
+"760","Treatment","SHISEIDO","Ultimune Power Infusing Concentrate",100,4.2,1,1,1,1,1
+"761","Treatment","GLAMGLOW","SUPERMUD® Activated Charcoal Treatment",59,4.2,1,0,1,1,0
+"762","Treatment","DRUNK ELEPHANT","B-Hydra™ Intensive Hydration Serum",52,4.2,1,1,1,1,0
+"763","Treatment","DR. DENNIS GROSS SKINCARE","Alpha Beta® Universal Daily Peel",88,4.5,1,1,1,1,0
+"764","Treatment","OLEHENRIKSEN","Truth Serum - Starlight Holiday Edition",128,4,1,1,1,1,0
+"765","Treatment","DRUNK ELEPHANT","NightBright™ Duo",28,4.2,1,1,1,1,1
+"766","Treatment","CAUDALIE","Vinopure Natural Salicylic Acid Pore Minimizing Serum",49,4.4,1,0,1,1,1
+"767","Treatment","FARSÁLI","Skintune Blur Perfecting Primer Serum",54,4.2,0,0,0,0,0
+"768","Treatment","SUNDAY RILEY","C.E.O. Rapid Flash Brightening Serum",85,3.9,1,1,1,1,1
+"769","Treatment","DRUNK ELEPHANT","Rise + Glow™ Duo",23,4,1,1,1,1,1
+"770","Treatment","CAUDALIE","Vinoperfect Radiance Serum",79,4.2,1,1,1,1,1
+"771","Treatment","KIEHL'S SINCE 1851","Powerful-Strength Line-Reducing Concentrate 12.5% Vitamin C",62,3.8,1,1,1,1,0
+"772","Treatment","CLARINS","Double Serum Complete Age Control Concentrate",89,4.1,1,1,1,1,1
+"773","Treatment","LA MER","The Regenerating Serum",345,3.9,1,1,1,1,1
+"774","Treatment","HERBIVORE","Blue Tansy AHA + BHA Resurfacing Clarity Mask",48,4.5,1,0,1,1,0
+"775","Treatment","ALGENIST","GENIUS Liquid Collagen",115,4,1,1,1,1,1
+"776","Treatment","PEACE OUT","Acne Healing Dots",19,4.3,1,1,1,1,1
+"777","Treatment","PETER THOMAS ROTH","Potent-C™ Power Serum",95,4.3,1,1,1,1,1
+"778","Treatment","FIRST AID BEAUTY","Facial Radiance Pads",30,4.3,1,1,1,1,1
+"779","Treatment","DR. DENNIS GROSS SKINCARE","Ferulic Acid + Retinol Brightening Solution",88,4.1,1,1,1,0,1
+"780","Treatment","MURAD","Rapid Age Spot and Pigment Lightening Serum",69,3.8,1,1,1,1,0
+"781","Treatment","DRUNK ELEPHANT","D-Bronzi™ Anti-Pollution Sunshine Drops",36,4.5,1,1,1,1,0
+"782","Treatment","CAUDALIE","Vinosource S.O.S Thirst Quenching Serum",49,4.5,1,1,1,0,1
+"783","Treatment","CAUDALIE","Vinoperfect Glycolic Brightening Essence",42,4.4,1,1,1,1,1
+"784","Treatment","ESTÉE LAUDER","Perfectionist CP+R Wrinkle Lifting/Firming Serum",98,4.3,0,0,0,0,0
+"785","Treatment","LA MER","The Revitalizing Hydrating Serum",205,4.2,1,1,1,1,1
+"786","Treatment","DR. JART+","Cicapair™ Tiger Grass Re.Pair Serum",46,4.2,1,1,1,1,1
+"787","Treatment","KATE SOMERVILLE","EradiKate™ Acne Treatment",26,4.3,1,1,1,1,0
+"788","Treatment","PETER THOMAS ROTH","Professional 3% Retinoid Plus",82,4.6,1,1,1,1,0
+"789","Treatment","DIOR","Capture Youth Collection",95,4.3,1,1,1,1,1
+"790","Treatment","BIOEFFECT","EGF Serum",160,5,1,1,1,1,1
+"791","Treatment","LA MER","The Treatment Lotion",150,4.4,1,1,1,1,1
+"792","Treatment","PETER THOMAS ROTH","Max Complexion Correction Pads",40,4.4,1,0,1,1,0
+"793","Treatment","OLEHENRIKSEN","Glow Cycle Retin-ALT Power Serum",58,4.4,1,1,1,1,0
+"794","Treatment","ORIGINS","Mega-Mushroom Relief & Resilience Soothing Treatment Lotion Limited Edition",34,4.5,1,1,1,1,1
+"795","Treatment","BECCA","Backlight Priming Filter Face Primer",38,4.2,1,1,1,1,1
+"796","Treatment","GLAMGLOW","GRAVITYMUD™ Firming Treatment",59,4,1,1,1,1,0
+"797","Treatment","FRESH","Umbrian Clay Pore Purifying Face Mask",58,4.4,0,0,0,0,0
+"798","Treatment","PETER THOMAS ROTH","Retinol Fusion PM",65,4.4,0,0,0,0,0
+"799","Treatment","BIOSSANCE","Squalane + Phyto-Retinol Serum",78,4.3,1,1,1,1,1
+"800","Treatment","PETER THOMAS ROTH","FIRMx™ Peeling Gel",48,4.6,1,1,1,1,1
+"801","Treatment","SK-II","R.N.A. POWER Anti-Aging Essence Serum",195,4.4,1,1,1,1,1
+"802","Treatment","KIEHL'S SINCE 1851","Hydro-Plumping Re-Texturizing Serum Concentrate",59,4.7,0,0,0,0,0
+"803","Treatment","CLINIQUE","Clinique Smart Custom-Repair Serum",60,4,1,1,1,1,1
+"804","Treatment","DIOR","One Essential Skin Boosting Super Serum",100,4.6,1,1,1,0,0
+"805","Treatment","COVER FX","Mattifying Primer With Anti-Acne Treatment",38,3.6,0,0,0,0,0
+"806","Treatment","SHISEIDO","White Lucent MicroTargeting Spot Corrector",132,3.4,1,1,1,1,0
+"807","Treatment","FRESH","Rose Deep Hydration Face Serum",48,4.3,0,0,0,0,0
+"808","Treatment","LA MER","The Perfecting Treatment",245,4.6,1,1,1,1,1
+"809","Treatment","FRESH","Black Tea Age-Delay Firming Serum",75,3.9,1,1,1,1,1
+"810","Treatment","MOON JUICE","Beauty Shroom™ Exfoliating Acid Potion",39,4.9,1,1,1,1,1
+"811","Treatment","ORIGINS","Super Spot Remover™ Blemish Treatment Gel",18,4,1,1,1,1,1
+"812","Treatment","MURAD","Invisiblur™ Perfecting Shield Broad Spectrum SPF 30 PA+++",65,3.9,1,1,1,1,0
+"813","Treatment","NEOGEN DERMALOGY","Bio-Peel Gauze Peeling - Green Tea",27,4.7,1,1,1,1,1
+"814","Treatment","PRIVATE DOCTOR","Minus Serum",49,4.8,1,1,1,1,0
+"815","Treatment","LANCÔME","Visionnaire Advanced Skin Corrector Serum",116,4.2,1,1,1,1,1
+"816","Treatment","HERBIVORE","Prism Exfoliating Glow Potion",62,4.3,1,1,1,1,0
+"817","Treatment","MURAD","Retinol Youth Renewal Serum",88,4.3,1,1,1,1,1
+"818","Treatment","CAUDALIE","Vine[Activ] Vitamin C Anti-Wrinkle Serum",52,4.1,1,1,1,1,1
+"819","Treatment","PETER THOMAS ROTH","Un-Wrinkle Peel Pads",45,4.6,0,0,0,0,0
+"820","Treatment","PERRICONE MD","Vitamin C Ester Brightening Serum",69,4.5,1,1,1,1,1
+"821","Treatment","DR. DENNIS GROSS SKINCARE","Alpha Beta® Ultra Gentle Daily Peel for Sensitive Skin",88,4.3,0,0,0,0,1
+"822","Treatment","IT COSMETICS","Bye Bye Breakout™ Full-Coverage Concealer",28,3.9,1,1,1,1,1
+"823","Treatment","KATE SOMERVILLE","D-Scar™ Scar Diminishing Serum",48,4.2,1,1,1,1,1
+"824","Treatment","PHILOSOPHY","The Microdelivery Resurfacing Peel",72,4.7,0,0,0,0,0
+"825","Treatment","JOSIE MARAN","Pure Argan Milk™ Intensive Hydrating Treatment",56,4,1,1,0,0,1
+"826","Treatment","SUNDAY RILEY","Saturn Sulfur Acne Treatment Mask",55,4.3,1,1,1,1,1
+"827","Treatment","CAUDALIE","Premier Cru Serum",150,4.1,1,1,1,1,1
+"828","Treatment","GUERLAIN","Abeille Royale Daily Repair Serum",150,3.6,0,0,0,0,0
+"829","Treatment","HUM NUTRITION","Daily Cleanse™ Clear Skin and Breakout Supplement",25,4,0,0,0,0,0
+"830","Treatment","CLINIQUE","Acne Solutions Clinical Clearing Gel",27,4.2,1,1,1,1,0
+"831","Treatment","DR. JART+","Cicapair™ Tiger Grass Camo Drops",46,4.1,1,1,1,1,1
+"832","Treatment","TATCHA","Luminous Deep Hydration Firming Serum",95,3.8,0,0,0,0,0
+"833","Treatment","KORRES","Wild Rose 15% Vitamin C Spotless Serum",75,3.9,1,1,1,1,1
+"834","Treatment","ALGENIST","ELEVATE Advanced Retinol Serum",98,4.8,1,1,1,0,0
+"835","Treatment","DIOR","Capture Totale Dreamskin Advanced Refill",128,5,1,1,1,1,1
+"836","Treatment","MURAD","Rapid Relief Acne Spot Treatment",22,4.1,1,0,0,1,0
+"837","Treatment","BIOEFFECT","30 Day Treatment",290,5,1,1,1,1,1
+"838","Treatment","TATA HARPER","Rejuvenating Serum",110,3.7,1,1,1,1,1
+"839","Treatment","DR. DENNIS GROSS SKINCARE","Alpha Beta® Medi–Spa Peel",64,4.5,1,1,1,1,0
+"840","Treatment","CLINIQUE","Even Better Clinical Dark Spot Corrector & Optimizer",80,3.1,1,1,1,1,1
+"841","Treatment","LANCER","Lift Serum Intense with Stem Cell Recovery Complex",275,5,1,1,1,0,0
+"842","Treatment","PERRICONE MD","Cold Plasma+ Face",149,4.1,1,1,1,1,1
+"843","Treatment","DIOR","Capture Youth Glow Booster Age-Delay Illuminating Serum",95,4.9,1,0,1,0,0
+"844","Treatment","BECCA","Skin Love Glow Elixir",48,4.4,0,0,0,0,0
+"845","Treatment","TATA HARPER","Resurfacing Serum",88,4.2,1,1,1,1,1
+"846","Treatment","CAUDALIE","Resveratrol Lift Firming Serum",82,4.3,1,1,1,1,1
+"847","Treatment","ALGENIST","POWER Advanced Wrinkle Fighter 360° Eye Serum",70,4.1,1,1,1,1,1
+"848","Treatment","FIRST AID BEAUTY","FAB Skin Lab Retinol Serum 0.25% Pure Concentrate",58,4.3,1,1,1,1,1
+"849","Treatment","MURAD","Active Retinol Renewal Kit",68,5,1,1,1,1,0
+"850","Treatment","KATE SOMERVILLE","Anti Bac Clearing Lotion",42,4.4,1,0,1,1,0
+"851","Treatment","LANCÔME","Advanced Génifique Sensitive Antioxidant Serum",78,4.6,1,1,1,1,1
+"852","Treatment","PEACE OUT","Pore Treatment Strips",19,4.2,1,1,1,1,1
+"853","Treatment","PETER THOMAS ROTH","Water Drench Hyaluronic Cloud Serum",65,4.2,1,1,1,1,1
+"854","Treatment","VOLITION BEAUTY","Snow Mushroom Water Serum",62,4.7,1,1,1,1,1
+"855","Treatment","MURAD","Revitalixir™ Recovery Serum",89,4.5,1,1,1,1,1
+"856","Treatment","MOON JUICE","Beauty Shroom™ Plumping Jelly Serum",58,4.5,1,1,1,1,1
+"857","Treatment","JACK BLACK","Protein Booster Skin Serum",62,4.7,1,1,1,1,1
+"858","Treatment","CLARINS","Shaping Facial Lift Total V Contouring Serum",81,3.7,1,1,1,1,0
+"859","Treatment","DR. BRANDT SKINCARE","needles no more™",89,3.4,1,1,1,1,0
+"860","Treatment","SHISEIDO","White Lucent Luminizing Surge",62,4.5,1,1,1,1,0
+"861","Treatment","DR. DENNIS GROSS SKINCARE","C+ Collagen Brighten & Firm Vitamin C Serum",78,3.9,1,1,1,1,1
+"862","Treatment","J.ONE","Red Jelly Pack",42,3.9,1,1,1,1,1
+"863","Treatment","COVER FX","Anti-Aging Primer",38,4.2,0,0,0,0,0
+"864","Treatment","YOUTH TO THE PEOPLE","Superfood Firm and Brighten Vitamin C Serum",62,3.9,1,1,1,1,1
+"865","Treatment","KATE SOMERVILLE","+Retinol Vita C Power Serum",98,3.9,1,1,1,1,0
+"866","Treatment","ESTÉE LAUDER","Idealist Pore Minimizing Skin Refinisher",86,4,0,0,0,0,0
+"867","Treatment","CLINIQUE","Fresh Pressed Daily Booster with Pure Vitamin C 10%",19,4,1,1,1,1,1
+"868","Treatment","PERRICONE MD","No Foundation Foundation Serum SPF 30",60,4.3,1,1,1,1,1
+"869","Treatment","PHILOSOPHY","Turbo Booster C Powder",39,4.5,0,0,0,0,0
+"870","Treatment","FOREO","Espada Acne-Clearing Blue Light Pen",149,3.9,1,1,1,1,1
+"871","Treatment","PERRICONE MD","H2 Elemental Energy Hydrating Booster Serum",100,4.1,1,1,1,1,1
+"872","Treatment","OLEHENRIKSEN","Power Peel™ Transforming Facial System",50,4.6,1,1,1,1,1
+"873","Treatment","LIGHTSTIM","Lightstim® for Acne",169,4,1,1,1,1,1
+"874","Treatment","KORRES","Black Pine 3D Sculpting, Firming & Lifting Face Serum",75,4.8,1,1,1,1,1
+"875","Treatment","PETER THOMAS ROTH","Acne System",35,4.3,1,1,1,1,1
+"876","Treatment","BECCA","Ever-Matte Poreless Priming Perfector",38,3.6,1,0,0,1,0
+"877","Treatment","PHILOSOPHY","Help Me",49,4.4,0,0,0,0,0
+"878","Treatment","REN CLEAN SKINCARE","Evercalm™ Anti-Redness Serum",48,3.8,1,1,1,1,1
+"879","Treatment","ORIGINS","Plantscription™ Anti-Aging Power Serum",60,3.9,1,1,1,1,0
+"880","Treatment","LANCER","Younger® Pure Youth Serum with MIMIXYL™",275,5,1,1,1,0,0
+"881","Treatment","REN CLEAN SKINCARE","Keep Young And Beautiful™ Instant Firming Beauty Shot",56,4.1,1,1,1,1,1
+"882","Treatment","ALGENIST","GENIUS Ultimate Anti-Aging Vitamin C+ Serum",118,3.9,1,1,1,1,1
+"883","Treatment","KATE SOMERVILLE","Quench Hydrating Face Serum",75,4.2,0,0,0,0,0
+"884","Treatment","MILK MAKEUP","Watermelon Brightening Serum",36,4.1,1,1,1,1,1
+"885","Treatment","IT COSMETICS","Bye Bye Lines Serum™ Advanced Anti-Aging Wrinkle-Smoothing Miracle Concentrate",58,4.1,1,1,1,1,1
+"886","Treatment","MURAD","Eye Lift Firming Treatment",68,4,0,0,0,0,0
+"887","Treatment","AMOREPACIFIC","MOISTURE BOUND Rejuvenating Serum",100,4.4,1,1,1,0,1
+"888","Treatment","PETER THOMAS ROTH","PROfessional Strength 40% Triple Acid Peel",88,4,1,1,1,1,0
+"889","Treatment","COOLA","Sunless Tan Anti-Aging Face Serum",54,4.3,1,1,1,1,1
+"890","Treatment","CLARINS","Hydra-Essentiel Bi-Phase Serum",59,4.6,1,1,1,1,1
+"891","Treatment","ORIGINS","Original Skin™ Renewal Serum with Willowherb",41,4.4,0,0,0,0,0
+"892","Treatment","MURAD","Rapid Resurfacing Peel",44,4.7,1,1,1,1,0
+"893","Treatment","PETER THOMAS ROTH","Acne-Clear Invisible Dots",30,3.6,1,1,1,1,1
+"894","Treatment","MURAD","Acne Clear Control 30-Day Kit",29,3.3,1,0,0,1,0
+"895","Treatment","REN CLEAN SKINCARE","Perfect Canvas Skin Finishing Serum",55,4.5,1,1,1,1,1
+"896","Treatment","DIOR","Capture Youth Lift Sculptor Age-Delay Lifting Serum",95,5,0,1,1,0,0
+"897","Treatment","CAUDALIE","Vinopure Natural Oil Control Moisturizer",39,3.8,1,0,1,1,1
+"898","Treatment","DIOR","Capture Youth Plump Filler Age-Delay Plumping Serum",95,4.4,0,1,1,0,0
+"899","Treatment","IT COSMETICS","Bye Bye Pores Primer™ Oil-Free Poreless Skin-Perfecting Serum Primer",38,3.6,1,1,1,1,1
+"900","Treatment","MURAD","Outsmart Acne Clarifying Treatment",44,4.3,1,0,1,1,1
